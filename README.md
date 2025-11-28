@@ -1,6 +1,5 @@
-## Tech Platform List 🚀  
-A curated collection of platforms across development, data, design, marketing, collaboration, cloud, and more. This list is continuously updated with tools that help professionals in the IT and digital fields.  
-
+## Awesome Digital Tools 🚀  
+A curated collection of platforms across development, data, design, writing, marketing, collaboration, cloud, and more. This list is continuously updated to help IT and digital professionals discover high-quality tools
 ---
 
 ### 📑 Table of Contents
