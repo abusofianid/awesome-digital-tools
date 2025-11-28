@@ -232,7 +232,7 @@ Platforms for security, observability, and incident response.
 
 - [Burp Suite](https://portswigger.net/burp) — Web application security testing tool.  
 - [Datadog](https://www.datadoghq.com) — Observability for logs, metrics, and traces.  
-- [ELK Stack](https://www.elastic.co/what-is/elk-stack) — Logging and analytics stack (Elasticsearch, Logstash, Kibana).  
+- [ELK Stack](https://www.elastic.co/what-is/elk-stack) — Logging and analytics stack (Elasticsearch, Logstash, Kibana). 
 - [Grafana](https://grafana.com) — Create dashboards and visualize metrics.  
 - [Nagios](https://www.nagios.org) — Monitoring and alerting for infrastructure.  
 - [New Relic](https://newrelic.com) — Application performance monitoring and telemetry.  
