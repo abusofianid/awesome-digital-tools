@@ -7,9 +7,9 @@ A curated collection of platforms across development, data, design, writing, mar
 - [💻 Development](#-development)  
 - [📊 Data & Analytics](#-data--analytics)  
 - [🎨 Design & Creative](#-design--creative)  
-- [✍️ Writing & Content](#-writing--content)  
+- [✍️ Writing & Content](#writing--content)  
 - [🤝 Collaboration & Productivity](#-collaboration--productivity)  
-- [☁️ Cloud & Hosting](#-cloud--hosting)  
+- [☁️ Cloud & Hosting](#cloud--hosting)  
 - [📚 Learning & Resources](#-learning--resources)  
 - [📂 Project Management](#-project-management)  
 - [🧪 Testing & QA](#-testing--qa)  
@@ -30,10 +30,10 @@ Platforms for coding, version control, and building software applications.
 - [CodePen](https://codepen.io) — Online playground for front-end experiments.  
 - [Codesandbox](https://codesandbox.io) — Cloud IDE for web app prototyping.  
 - [Coder](https://coder.com) — Platform for remote development environments.  
-- [Eclipse](https://www.eclipse.org) — Open-source IDE for multiple languages.  
+- [Eclipse](https://www.eclipse.org) — Open-source IDE for multiple languages. 
 - [GitHub](https://github.com) — Code hosting with issues and pull requests.  
 - [GitLab](https://gitlab.com) — All-in-one DevOps platform with CI/CD.  
-- [Glitch](https://glitch.com) — Rapidly build and host web apps online.  
+- [Glitch](https://glitch.com) — Rapidly build and host web apps online. 
 - [Heroku](https://www.heroku.com) — Platform-as-a-Service for deploying apps.  
 - [JSFiddle](https://jsfiddle.net) — Quick browser-based prototyping environment.  
 - [Katacoda](https://www.katacoda.com) — Interactive scenarios for hands-on learning.  
@@ -47,7 +47,7 @@ Platforms for coding, version control, and building software applications.
 - [Vercel](https://vercel.com) — Frontend hosting optimized for Jamstack and serverless.  
 - [JetBrains Space](https://www.jetbrains.com/space/) — Integrated collaboration and CI/CD platform.
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -75,7 +75,7 @@ Platforms for data engineering, visualization, and analytics.
 - [Trino](https://trino.io) — Distributed SQL query engine for analytics.  
 - [Trifacta](https://www.trifacta.com) — Data wrangling and preparation tools.
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -103,7 +103,7 @@ Platforms for design, prototyping, graphics, and creative work.
 - [Whimsical](https://whimsical.com) — Simple wireframing and diagramming tool.  
 - [ZBrush](https://pixologic.com) — Digital sculpting and painting tool.
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -128,7 +128,7 @@ Platforms for writing, content management, and publishing.
 - [Zoho Writer](https://www.zoho.com/writer/) — Cloud word processor for teams.  
 - [Zettlr](https://www.zettlr.com) — Markdown editor for researchers and writers.  
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -147,7 +147,7 @@ Platforms for communication, teamwork, and productivity.
 - [Trello](https://trello.com) — Kanban boards for visual project management.  
 - [Zoom](https://zoom.us) — Video conferencing and webinars.
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -167,7 +167,7 @@ Platforms for hosting, infrastructure, and deployment.
 - [Render](https://render.com) — Easy-to-use cloud hosting for web services.  
 - [Vercel](https://vercel.com) — Deploy frontends and serverless functions globally.
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -187,7 +187,7 @@ Platforms for online learning, tutorials, and developer resources.
 - [Udacity](https://udacity.com) — Nanodegree programs for industry skills.  
 - [Udemy](https://udemy.com) — Marketplace for on-demand courses.
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -205,7 +205,7 @@ Platforms for planning, tracking, and delivering projects.
 - [Teamwork](https://www.teamwork.com) — Project planning and collaboration tools.  
 - [Trello](https://trello.com) — Simple kanban boards for workflows.
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -223,7 +223,7 @@ Platforms for automated testing, QA, and test management.
 - [Selenium](https://www.selenium.dev) — Browser automation suite for web testing.  
 - [TestRail](https://www.gurock.com/testrail/) — Test case management and reporting.
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -241,7 +241,7 @@ Platforms for security, observability, and incident response.
 - [Prometheus](https://prometheus.io) — Monitoring system and time-series database.  
 - [Snyk](https://snyk.io) — Find and fix vulnerabilities in dependencies.
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
@@ -257,7 +257,7 @@ If you find this repository helpful, please consider giving it a **star** on Git
 **Email:** [abusofian.id@gmail.com](mailto:abusofian.id@gmail.com)  
 **LinkedIn:** [linkedin.com/in/abusofianid](https://www.linkedin.com/in/abusofianid) 
 
-[🔝 Back to Top](#-table-of-contents)
+[🔝 Back to Top](#table-of-contents)
 
 ---
 
