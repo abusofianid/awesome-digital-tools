@@ -103,7 +103,7 @@ Platforms for design, prototyping, graphics, and creative work.
 - [Whimsical](https://whimsical.com) — Simple wireframing and diagramming tool.  
 - [ZBrush](https://pixologic.com) — Digital sculpting and painting tool.
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
