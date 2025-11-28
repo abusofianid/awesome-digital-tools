@@ -47,7 +47,7 @@ Platforms for coding, version control, and building software applications.
 - [Vercel](https://vercel.com) — Frontend hosting optimized for Jamstack and serverless.  
 - [JetBrains Space](https://www.jetbrains.com/space/) — Integrated collaboration and CI/CD platform.
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
