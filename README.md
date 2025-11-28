@@ -82,7 +82,7 @@ Platforms for data engineering, visualization, and analytics.
 ### 🎨 Design & Creative
 Platforms for design, prototyping, graphics, and creative work.
 
-- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — Industry-standard vector illustration software.  
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — Industry-standard vector illustration software. 
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — Industry-standard raster image editor.  
 - [Adobe XD](https://www.adobe.com/products/xd.html) — UI/UX design and prototyping tool.  
 - [Affinity Designer](https://affinity.serif.com) — Professional vector and raster design app.  
