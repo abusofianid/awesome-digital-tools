@@ -7,7 +7,7 @@ A curated collection of platforms across development, data, design, writing, mar
 - [💻 Development](#-development)  
 - [📊 Data & Analytics](#-data--analytics)  
 - [🎨 Design & Creative](#-design--creative)  
-- [✍️ Writing & Content](#writing--content)  
+- [✍️ Writing & Content](#-writing--content)  
 - [🤝 Collaboration & Productivity](#-collaboration--productivity)  
 - [☁️ Cloud & Hosting](#cloud--hosting)  
 - [📚 Learning & Resources](#-learning--resources)  
@@ -107,7 +107,7 @@ Platforms for design, prototyping, graphics, and creative work.
 
 ---
 
-### ✍️ Writing & Content
+### 📝 Writing & Content
 Platforms for writing, content management, and publishing.
 
 - [Bear](https://bear.app) — Minimalist note-taking and writing app.  
@@ -151,7 +151,7 @@ Platforms for communication, teamwork, and productivity.
 
 ---
 
-### ☁️ Cloud & Hosting
+### ☁ Cloud & Hosting
 Platforms for hosting, infrastructure, and deployment.
 
 - [AWS](https://aws.amazon.com) — Cloud services across compute, storage, and more.  
