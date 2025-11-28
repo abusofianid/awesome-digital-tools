@@ -75,7 +75,7 @@ Platforms for data engineering, visualization, and analytics.
 - [Trino](https://trino.io) — Distributed SQL query engine for analytics.  
 - [Trifacta](https://www.trifacta.com) — Data wrangling and preparation tools.
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
@@ -128,7 +128,7 @@ Platforms for writing, content management, and publishing.
 - [Zoho Writer](https://www.zoho.com/writer/) — Cloud word processor for teams.  
 - [Zettlr](https://www.zettlr.com) — Markdown editor for researchers and writers.  
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
@@ -147,11 +147,11 @@ Platforms for communication, teamwork, and productivity.
 - [Trello](https://trello.com) — Kanban boards for visual project management.  
 - [Zoom](https://zoom.us) — Video conferencing and webinars.
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
-### ☁ Cloud & Hosting
+### 🌎 Cloud & Hosting
 Platforms for hosting, infrastructure, and deployment.
 
 - [AWS](https://aws.amazon.com) — Cloud services across compute, storage, and more.  
@@ -167,7 +167,7 @@ Platforms for hosting, infrastructure, and deployment.
 - [Render](https://render.com) — Easy-to-use cloud hosting for web services.  
 - [Vercel](https://vercel.com) — Deploy frontends and serverless functions globally.
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
@@ -187,7 +187,7 @@ Platforms for online learning, tutorials, and developer resources.
 - [Udacity](https://udacity.com) — Nanodegree programs for industry skills.  
 - [Udemy](https://udemy.com) — Marketplace for on-demand courses.
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
@@ -205,7 +205,7 @@ Platforms for planning, tracking, and delivering projects.
 - [Teamwork](https://www.teamwork.com) — Project planning and collaboration tools.  
 - [Trello](https://trello.com) — Simple kanban boards for workflows.
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
@@ -223,7 +223,7 @@ Platforms for automated testing, QA, and test management.
 - [Selenium](https://www.selenium.dev) — Browser automation suite for web testing.  
 - [TestRail](https://www.gurock.com/testrail/) — Test case management and reporting.
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
@@ -241,7 +241,7 @@ Platforms for security, observability, and incident response.
 - [Prometheus](https://prometheus.io) — Monitoring system and time-series database.  
 - [Snyk](https://snyk.io) — Find and fix vulnerabilities in dependencies.
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
@@ -257,7 +257,7 @@ If you find this repository helpful, please consider giving it a **star** on Git
 **Email:** [abusofian.id@gmail.com](mailto:abusofian.id@gmail.com)  
 **LinkedIn:** [linkedin.com/in/abusofianid](https://www.linkedin.com/in/abusofianid) 
 
-[🔝 Back to Top](#table-of-contents)
+[🔝 Back to Top](#-table-of-contents)
 
 ---
 
