@@ -1,4 +1,5 @@
 ### Awesome Digital Tools 🚀
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance tools: invoice, quote, delivery note, work order, receipt, SOW, and more (MIT, no signup).
 A curated collection of platforms across development, data, design, writing, marketing, collaboration, cloud, and more. This list is continuously updated to help IT and digital professionals discover high-quality tools.
 
 ---
