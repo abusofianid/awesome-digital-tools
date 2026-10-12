@@ -28,24 +28,21 @@ Platforms for coding, version control, and building software applications.
 - [Android Studio](https://developer.android.com/studio) — Official IDE for Android app development.  
 - [Bitbucket](https://bitbucket.org) — Git-based source code hosting and collaboration.  
 - [CodePen](https://codepen.io) — Online playground for front-end experiments.  
-- [Codesandbox](https://codesandbox.io) — Cloud IDE for web app prototyping.  
 - [Coder](https://coder.com) — Platform for remote development environments.  
+- [Codesandbox](https://codesandbox.io) — Cloud IDE for web app prototyping.  
 - [Eclipse](https://www.eclipse.org) — Open-source IDE for multiple languages. 
 - [GitHub](https://github.com) — Code hosting with issues and pull requests.  
 - [GitLab](https://gitlab.com) — All-in-one DevOps platform with CI/CD.  
-- [Glitch](https://glitch.com) — Rapidly build and host web apps online. 
 - [Heroku](https://www.heroku.com) — Platform-as-a-Service for deploying apps.  
 - [JSFiddle](https://jsfiddle.net) — Quick browser-based prototyping environment.  
-- [Katacoda](https://www.katacoda.com) — Interactive scenarios for hands-on learning.  
 - [Netlify](https://www.netlify.com) — Continuous deployment for static sites and apps.  
 - [PyCharm](https://www.jetbrains.com/pycharm/) — IDE specialized for Python development.  
-- [Replit](https://replit.com) — Collaborative online IDE for many languages.  
 - [Render](https://render.com) — Simple cloud hosting for apps and services.  
+- [Replit](https://replit.com) — Collaborative online IDE for many languages.  
 - [SourceForge](https://sourceforge.net) — Classic hub for open-source projects and downloads.  
 - [SourceHut](https://sourcehut.org) — Lightweight platform for development and CI.  
 - [StackBlitz](https://stackblitz.com) — Instant browser IDE for modern web stacks.  
 - [Vercel](https://vercel.com) — Frontend hosting optimized for Jamstack and serverless.  
-- [JetBrains Space](https://www.jetbrains.com/space/) — Integrated collaboration and CI/CD platform.
 
 [🔝 Back to Top](#-table-of-contents)
 
@@ -55,6 +52,7 @@ Platforms for coding, version control, and building software applications.
 Platforms for data engineering, visualization, and analytics.
 
 - [Airbyte](https://airbyte.com) — Open-source connectors for data integration.  
+- [Alteryx Designer Cloud](https://www.alteryx.com/platform/analytics-workspace/cloud-workspace) — Cloud data preparation and pipeline automation (formerly Trifacta).  
 - [Apache Airflow](https://airflow.apache.org) — Orchestrate data workflows and pipelines.  
 - [Apache Hadoop](https://hadoop.apache.org) — Distributed storage and batch processing framework.  
 - [Apache Spark](https://spark.apache.org) — Fast cluster computing for big data.  
@@ -73,7 +71,6 @@ Platforms for data engineering, visualization, and analytics.
 - [Snowflake](https://snowflake.com) — Cloud data platform for warehousing and analytics.  
 - [Tableau](https://www.tableau.com) — Visual analytics and interactive dashboards.  
 - [Trino](https://trino.io) — Distributed SQL query engine for analytics.  
-- [Trifacta](https://www.trifacta.com) — Data wrangling and preparation tools.
 
 [🔝 Back to Top](#-table-of-contents)
 
@@ -84,24 +81,21 @@ Platforms for design, prototyping, graphics, and creative work.
 
 - [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) — Industry-standard vector illustration software. 
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) — Industry-standard raster image editor.  
-- [Adobe XD](https://www.adobe.com/products/xd.html) — UI/UX design and prototyping tool.  
 - [Affinity Designer](https://affinity.serif.com) — Professional vector and raster design app.  
 - [Blender](https://www.blender.org) — Open-source 3D modeling and animation suite.  
 - [Canva](https://www.canva.com) — Simple online design and templating platform.  
 - [Cinema 4D](https://www.maxon.net/en/cinema-4d) — 3D modeling and motion graphics software.  
 - [CorelDRAW](https://www.coreldraw.com) — Vector illustration and layout suite.  
-- [Figma](https://figma.com) — Collaborative interface design and prototyping.  
 - [FigJam](https://www.figma.com/figjam/) — Collaborative whiteboard for teams.  
+- [Figma](https://figma.com) — Collaborative interface design and prototyping.  
 - [GIMP](https://www.gimp.org) — Free image editor with advanced features.  
-- [Gravit Designer](https://www.designer.io) — Cross-platform vector design application.  
-- [InVision](https://www.invisionapp.com) — Prototyping and design collaboration platform.  
 - [Krita](https://krita.org) — Digital painting and illustration software.  
 - [Lucidchart](https://www.lucidchart.com) — Diagramming and flowchart tool.  
 - [Marvel](https://marvelapp.com) — Rapid prototyping and handoff.  
 - [Miro](https://miro.com) — Collaborative online whiteboard for teams.  
 - [Sketch](https://www.sketch.com) — Vector design app mostly for macOS.  
 - [Whimsical](https://whimsical.com) — Simple wireframing and diagramming tool.  
-- [ZBrush](https://pixologic.com) — Digital sculpting and painting tool.
+- [ZBrush](https://www.maxon.net/en/zbrush) — Digital sculpting and painting tool.
 
 [🔝 Back to Top](#-table-of-contents)
 
@@ -120,13 +114,13 @@ Platforms for writing, content management, and publishing.
 - [QuillBot](https://quillbot.com) — Paraphrasing and writing assistance tools.  
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview) — Long-form writing and drafting software.  
 - [Substack](https://substack.com) — Newsletter publishing and subscription platform.  
-- [Typefully](https://typefully.com) — Compose and schedule Twitter/X threads.  
+- [Typefully](https://typefully.com) — Compose and schedule posts for X, LinkedIn, Bluesky, and Threads.  
 - [Ulysses](https://ulysses.app) — Distraction-free writing app for Apple platforms.  
 - [WordPress](https://wordpress.org) — Content management system for websites.  
 - [Write.as](https://write.as) — Minimalist anonymous blogging platform.  
 - [Writer](https://writer.com) — AI writing assistant for teams.  
-- [Zoho Writer](https://www.zoho.com/writer/) — Cloud word processor for teams.  
 - [Zettlr](https://www.zettlr.com) — Markdown editor for researchers and writers.  
+- [Zoho Writer](https://www.zoho.com/writer/) — Cloud word processor for teams.  
 
 [🔝 Back to Top](#-table-of-contents)
 
@@ -161,9 +155,9 @@ Platforms for hosting, infrastructure, and deployment.
 - [GitHub Pages](https://pages.github.com) — Host static sites straight from GitHub repos.  
 - [Google Cloud Platform](https://cloud.google.com) — Scalable cloud services from Google.  
 - [Heroku](https://www.heroku.com) — PaaS for quick app deployment.  
-- [Linode](https://www.linode.com) — Cloud compute and networking services.  
+- [Linode (Akamai Cloud)](https://www.linode.com) — Cloud compute and networking services, now part of Akamai.  
 - [Netlify](https://www.netlify.com) — Build, deploy, and host modern web projects.  
-- [Railway](https://railway.app) — Developer-first cloud hosting and databases.  
+- [Railway](https://railway.com) — Developer-first cloud hosting and databases.  
 - [Render](https://render.com) — Easy-to-use cloud hosting for web services.  
 - [Vercel](https://vercel.com) — Deploy frontends and serverless functions globally.
 
@@ -221,7 +215,7 @@ Platforms for automated testing, QA, and test management.
 - [Postman](https://www.postman.com) — API development and testing workspace.  
 - [PyTest](https://docs.pytest.org) — Testing framework for Python projects.  
 - [Selenium](https://www.selenium.dev) — Browser automation suite for web testing.  
-- [TestRail](https://www.gurock.com/testrail/) — Test case management and reporting.
+- [TestRail](https://www.testrail.com/) — Test case management and reporting.
 
 [🔝 Back to Top](#-table-of-contents)
 
@@ -236,10 +230,10 @@ Platforms for security, observability, and incident response.
 - [Grafana](https://grafana.com) — Create dashboards and visualize metrics.  
 - [Nagios](https://www.nagios.org) — Monitoring and alerting for infrastructure.  
 - [New Relic](https://newrelic.com) — Application performance monitoring and telemetry.  
-- [OWASP ZAP](https://www.zaproxy.org) — Automated web application security scanner.  
 - [PagerDuty](https://www.pagerduty.com) — Incident response and on-call orchestration.  
 - [Prometheus](https://prometheus.io) — Monitoring system and time-series database.  
-- [Snyk](https://snyk.io) — Find and fix vulnerabilities in dependencies.
+- [Snyk](https://snyk.io) — Find and fix vulnerabilities in dependencies.  
+- [ZAP](https://www.zaproxy.org) — Automated web application security scanner (formerly OWASP ZAP).
 
 [🔝 Back to Top](#-table-of-contents)
 
