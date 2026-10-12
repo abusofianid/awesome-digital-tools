@@ -8,6 +8,7 @@ A curated collection of platforms across development, data, design, writing, mar
 - [📊 Data & Analytics](#-data--analytics)  
 - [🎨 Design & Creative](#-design--creative)  
 - [📝 Writing & Content](#-writing--content)  
+- [📣 Marketing](#-marketing)  
 - [🤝 Collaboration & Productivity](#-collaboration--productivity)  
 - [🌎 Cloud & Hosting](#-cloud--hosting)  
 - [📚 Learning & Resources](#-learning--resources)  
@@ -121,6 +122,26 @@ Platforms for writing, content management, and publishing.
 - [Writer](https://writer.com) — AI writing assistant for teams.  
 - [Zettlr](https://www.zettlr.com) — Markdown editor for researchers and writers.  
 - [Zoho Writer](https://www.zoho.com/writer/) — Cloud word processor for teams.  
+
+[🔝 Back to Top](#-table-of-contents)
+
+---
+
+### 📣 Marketing
+Platforms for SEO, email, social media, advertising, and web analytics.
+
+- [Ahrefs](https://ahrefs.com) — SEO toolkit for keyword research, backlinks, and site audits.  
+- [Brevo](https://www.brevo.com) — Email, SMS, and WhatsApp marketing platform.  
+- [Buffer](https://buffer.com) — Plan, schedule, and analyze social media posts.  
+- [Google Ads](https://ads.google.com) — Paid search and video advertising across Google and YouTube.  
+- [Google Analytics](https://marketingplatform.google.com/about/analytics/) — Website and app traffic analytics from Google.  
+- [Google Search Console](https://search.google.com/search-console/about) — Monitor and improve your site's performance in Google Search.  
+- [Hootsuite](https://www.hootsuite.com) — Social media scheduling, analytics, and listening.  
+- [HubSpot](https://www.hubspot.com) — CRM and marketing automation platform.  
+- [Kit](https://kit.com) — Email marketing for creators and newsletters (formerly ConvertKit).  
+- [Mailchimp](https://mailchimp.com) — Email and SMS campaigns with marketing automation.  
+- [Plausible](https://plausible.io) — Lightweight, privacy-friendly web analytics.  
+- [Semrush](https://www.semrush.com) — SEO, keyword research, and competitor analysis suite.
 
 [🔝 Back to Top](#-table-of-contents)
 
