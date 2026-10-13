@@ -30,6 +30,7 @@ A curated directory of widely used digital tools for AI, software development, d
 
 ### 📌 Others
 - [🙌 Contributing](#-contributing)  
+- [📖 How to Add or Update a Tool](#-how-to-add-or-update-a-tool)  
 - [⭐ Support](#-support)  
 - [📧 Contact](#-contact)
 
@@ -511,7 +512,70 @@ Common online utilities for document conversion, image optimization, translation
 ### 🙌 Contributing
 Contributions are welcome!  
 If you know a useful platform that should be listed here, feel free to open a Pull Request or create an Issue.  
-To add a tool, edit both `data/tools.en.json` and `data/tools.id.json`, then run `python3 scripts/build_readme.py` to regenerate the README files.  
+To add or change a tool, follow the steps in [📖 How to Add or Update a Tool](#-how-to-add-or-update-a-tool).  
+
+### 📖 How to Add or Update a Tool
+The tool lists live in two JSON files, one per language. Both README files are generated from them, so do not edit the READMEs by hand: your changes would be overwritten.
+
+**Key files**
+
+```text
+.
+├── data/
+│   ├── tools.en.json     # English tool list
+│   └── tools.id.json     # Indonesian tool list
+├── scripts/
+│   └── build_readme.py   # builds both READMEs from data/
+├── README.md             # English README (generated)
+└── README.id.md          # Indonesian README (generated)
+```
+
+**1. Add the tool to the English file.** Open `data/tools.en.json`, find the category, and insert the entry in alphabetical order:
+
+```json
+{
+  "name": "Example Tool",
+  "url": "https://example.com/",
+  "description": "A short sentence that ends with a period."
+}
+```
+
+**2. Add the same tool to the Indonesian file.** Use the same `name` and `url` at the same position in `data/tools.id.json`, and write the `description` in Indonesian:
+
+```json
+{
+  "name": "Example Tool",
+  "url": "https://example.com/",
+  "description": "Satu kalimat singkat yang diakhiri titik."
+}
+```
+
+**3. Rebuild the READMEs.** Python 3.8 or newer is required; there is nothing to install:
+
+```bash
+python3 scripts/build_readme.py
+```
+
+**4. Commit** the two JSON files and the two README files together.
+
+To change or remove a tool, edit or delete its entry in both JSON files and run the script again. To add a category, add an object with a unique `id`, a `name`, an `icon` (one emoji that no other category uses), a `description`, and a `tools` list to both files, at the same position.
+
+**What the script rejects**
+
+- categories, tools, names, URLs, or an order that differ between the two files
+- an `icon` that is missing, differs between the files, or is used by two categories
+- a URL that is listed twice or does not start with `https://`
+- an empty name or description, or one that contains Markdown characters such as `*`, `_`, `[`, `]`, `<`, `>`, `|`
+
+When the data is rejected, the script lists every problem and writes nothing.
+
+**Check that the READMEs are up to date**
+
+```bash
+python3 scripts/build_readme.py --check
+```
+
+It prints `README files are up to date.` and exits with 0. If a README is outdated, it names the file and exits with 1, so you can also run it in CI.
 
 ### ⭐ Support
 If you find this repository helpful, please consider giving it a **star** on GitHub — it helps others discover this collection too! 

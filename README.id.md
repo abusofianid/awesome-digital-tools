@@ -30,6 +30,7 @@ Direktori kurasi alat digital yang banyak digunakan untuk kecerdasan buatan, pen
 
 ### 📌 Lainnya
 - [🙌 Kontribusi](#-kontribusi)  
+- [📖 Cara Menambah atau Mengubah Alat](#-cara-menambah-atau-mengubah-alat)  
 - [⭐ Dukungan](#-dukungan)  
 - [📧 Kontak](#-kontak)
 
@@ -511,7 +512,70 @@ Utilitas daring umum untuk konversi dokumen, pengoptimalan gambar, terjemahan, d
 ### 🙌 Kontribusi
 Kontribusi sangat diterima!  
 Jika Anda mengetahui platform bermanfaat yang layak masuk daftar ini, silakan buka Pull Request atau buat Issue.  
-Untuk menambahkan alat, ubah `data/tools.en.json` dan `data/tools.id.json`, lalu jalankan `python3 scripts/build_readme.py` untuk membuat ulang file README.  
+Untuk menambah atau mengubah alat, ikuti langkah di [📖 Cara Menambah atau Mengubah Alat](#-cara-menambah-atau-mengubah-alat).  
+
+### 📖 Cara Menambah atau Mengubah Alat
+Daftar alat disimpan di dua file JSON, satu untuk setiap bahasa. Kedua file README dibuat otomatis dari file tersebut, jadi jangan mengedit README secara manual: perubahan Anda akan tertimpa.
+
+**File utama**
+
+```text
+.
+├── data/
+│   ├── tools.en.json     # Daftar alat (Inggris)
+│   └── tools.id.json     # Daftar alat (Indonesia)
+├── scripts/
+│   └── build_readme.py   # Membuat kedua README dari data/
+├── README.md             # README Inggris (dibuat otomatis)
+└── README.id.md          # README Indonesia (dibuat otomatis)
+```
+
+**1. Tambahkan alat ke file Inggris.** Buka `data/tools.en.json`, cari kategorinya, lalu sisipkan entri sesuai urutan abjad:
+
+```json
+{
+  "name": "Example Tool",
+  "url": "https://example.com/",
+  "description": "A short sentence that ends with a period."
+}
+```
+
+**2. Tambahkan alat yang sama ke file Indonesia.** Gunakan `name` dan `url` yang sama pada posisi yang sama di `data/tools.id.json`, lalu tulis `description` dalam bahasa Indonesia:
+
+```json
+{
+  "name": "Example Tool",
+  "url": "https://example.com/",
+  "description": "Satu kalimat singkat yang diakhiri titik."
+}
+```
+
+**3. Buat ulang README.** Dibutuhkan Python 3.8 atau lebih baru; tidak ada yang perlu dipasang:
+
+```bash
+python3 scripts/build_readme.py
+```
+
+**4. Commit** kedua file JSON dan kedua file README bersamaan.
+
+Untuk mengubah atau menghapus alat, ubah atau hapus entrinya di kedua file JSON, lalu jalankan skrip lagi. Untuk menambah kategori, tambahkan objek dengan `id` unik, `name`, `icon` (satu emoji yang belum dipakai kategori lain), `description`, dan daftar `tools` ke kedua file pada posisi yang sama.
+
+**Yang ditolak skrip**
+
+- kategori, alat, nama, URL, atau urutan yang berbeda antara kedua file
+- `icon` yang hilang, berbeda antar bahasa, atau dipakai dua kategori
+- URL yang muncul dua kali atau tidak diawali `https://`
+- nama atau deskripsi yang kosong, atau yang mengandung karakter Markdown seperti `*`, `_`, `[`, `]`, `<`, `>`, `|`
+
+Jika data ditolak, skrip menampilkan semua masalah dan tidak menulis apa pun.
+
+**Cek apakah README sudah terbaru**
+
+```bash
+python3 scripts/build_readme.py --check
+```
+
+Perintah ini menampilkan `README files are up to date.` dan berhenti dengan kode 0. Jika ada README yang usang, skrip menyebut nama filenya dan berhenti dengan kode 1, sehingga bisa dipakai juga di CI.
 
 ### ⭐ Dukungan
 Jika repositori ini bermanfaat bagi Anda, mohon pertimbangkan untuk memberinya **bintang** di GitHub — ini membantu orang lain menemukan koleksi ini juga! 
