@@ -515,7 +515,7 @@ Common online utilities for document conversion, image optimization, translation
 ### 🙌 Contributing
 Contributions are welcome!  
 If you know a useful platform that should be listed here, feel free to open a Pull Request or create an Issue.  
-To add or change a tool, follow the steps in [📖 How to Add or Update a Tool](#-how-to-add-or-update-a-tool).  
+Follow the steps in [CONTRIBUTING](CONTRIBUTING.md)
 
 ### 📖 How to Add or Update a Tool
 The tool lists live in two JSON files, one per language. Both README files are generated from them, so do not edit the READMEs by hand: your changes would be overwritten.
