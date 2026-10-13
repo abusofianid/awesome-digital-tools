@@ -1,6 +1,9 @@
 🌐 **English** | [Bahasa Indonesia](README.id.md)
 
-### Awesome Digital Tools 🚀
+# 🔎 Awesome Digital Tools 
+
+![Awesome](https://img.shields.io/badge/-AWESOME-purple?style=for-the-badge&logo=awesomelist&logoColor=white)
+
 A curated directory of widely used digital tools for AI, software development, design, productivity, business, learning, and everyday work.
 
 ---
