@@ -511,6 +511,7 @@ Utilitas daring umum untuk konversi dokumen, pengoptimalan gambar, terjemahan, d
 ### 🙌 Kontribusi
 Kontribusi sangat diterima!  
 Jika Anda mengetahui platform bermanfaat yang layak masuk daftar ini, silakan buka Pull Request atau buat Issue.  
+Untuk menambahkan alat, ubah `data/tools.en.json` dan `data/tools.id.json`, lalu jalankan `python3 scripts/build_readme.py` untuk membuat ulang file README.  
 
 ### ⭐ Dukungan
 Jika repositori ini bermanfaat bagi Anda, mohon pertimbangkan untuk memberinya **bintang** di GitHub — ini membantu orang lain menemukan koleksi ini juga! 

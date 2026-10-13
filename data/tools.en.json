@@ -1,0 +1,1700 @@
+{
+  "title": "Awesome Digital Tools",
+  "description": "A curated directory of widely used digital tools for AI, software development, design, productivity, business, learning, and everyday work.",
+  "language": "en",
+  "categories": [
+    {
+      "id": "ai-assistants-research",
+      "name": "AI Assistants & Research",
+      "icon": "🤖",
+      "description": "General-purpose AI assistants, answer engines, and research tools.",
+      "tools": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "description": "An AI assistant for writing, analysis, learning, coding, and working with files."
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "description": "An AI assistant suited to writing, reasoning, document analysis, and coding."
+        },
+        {
+          "name": "DeepSeek",
+          "url": "https://www.deepseek.com/",
+          "description": "AI chat and reasoning models for general questions and technical tasks."
+        },
+        {
+          "name": "Google Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "Google's AI assistant for research, writing, brainstorming, and Google ecosystem tasks."
+        },
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/",
+          "description": "A hub for discovering, sharing, and running machine-learning models and datasets."
+        },
+        {
+          "name": "Microsoft Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "description": "An AI assistant for web research, everyday questions, and Microsoft workflows."
+        },
+        {
+          "name": "Mistral Le Chat",
+          "url": "https://chat.mistral.ai/",
+          "description": "A conversational AI assistant from Mistral for writing, analysis, and research."
+        },
+        {
+          "name": "NotebookLM",
+          "url": "https://notebooklm.google.com/",
+          "description": "A research assistant that answers questions using sources you provide."
+        },
+        {
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai/",
+          "description": "An answer engine that searches the web and provides source-linked responses."
+        },
+        {
+          "name": "Poe",
+          "url": "https://poe.com/",
+          "description": "A platform for using multiple AI models and community-created bots in one place."
+        }
+      ]
+    },
+    {
+      "id": "ai-coding-app-builders",
+      "name": "AI Coding & App Builders",
+      "icon": "🪄",
+      "description": "AI-assisted coding, code review, and prompt-driven application development.",
+      "tools": [
+        {
+          "name": "Bolt.new",
+          "url": "https://bolt.new/",
+          "description": "Build and iterate on web applications from natural-language prompts in the browser."
+        },
+        {
+          "name": "Claude Code",
+          "url": "https://claude.com/product/claude-code",
+          "description": "An agentic coding tool that can understand repositories and perform development tasks."
+        },
+        {
+          "name": "Cline",
+          "url": "https://cline.bot/",
+          "description": "An open-source coding agent that works inside Visual Studio Code."
+        },
+        {
+          "name": "CodeRabbit",
+          "url": "https://www.coderabbit.ai/",
+          "description": "AI-assisted code review that provides feedback on pull requests."
+        },
+        {
+          "name": "Continue",
+          "url": "https://www.continue.dev/",
+          "description": "An open-source AI coding assistant for popular development environments."
+        },
+        {
+          "name": "Cursor",
+          "url": "https://cursor.com/",
+          "description": "An AI-focused code editor for codebase-aware chat, editing, and agent workflows."
+        },
+        {
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "AI coding assistance integrated into supported editors and GitHub workflows."
+        },
+        {
+          "name": "Lovable",
+          "url": "https://lovable.dev/",
+          "description": "Generate and refine full-stack web applications through conversational prompts."
+        },
+        {
+          "name": "Replit",
+          "url": "https://replit.com/",
+          "description": "A browser-based development environment for building, running, and sharing applications."
+        },
+        {
+          "name": "Tabnine",
+          "url": "https://www.tabnine.com/",
+          "description": "AI code completion and assistance for individual developers and teams."
+        },
+        {
+          "name": "v0",
+          "url": "https://v0.dev/",
+          "description": "Create UI designs and web application code from prompts, with a focus on modern web stacks."
+        }
+      ]
+    },
+    {
+      "id": "development-ides",
+      "name": "Development & IDEs",
+      "icon": "💻",
+      "description": "Editors, IDEs, source-code collaboration, and essential developer references.",
+      "tools": [
+        {
+          "name": "Android Studio",
+          "url": "https://developer.android.com/studio",
+          "description": "The official IDE for Android application development."
+        },
+        {
+          "name": "Bitbucket",
+          "url": "https://bitbucket.org/",
+          "description": "Git repository hosting with collaboration and development workflow integrations."
+        },
+        {
+          "name": "CodePen",
+          "url": "https://codepen.io/",
+          "description": "An online playground for creating and sharing front-end code experiments."
+        },
+        {
+          "name": "CodeSandbox",
+          "url": "https://codesandbox.io/",
+          "description": "A collaborative cloud environment for prototyping and developing applications."
+        },
+        {
+          "name": "DevDocs",
+          "url": "https://devdocs.io/",
+          "description": "Searchable, consolidated documentation for many programming languages and tools."
+        },
+        {
+          "name": "Eclipse IDE",
+          "url": "https://www.eclipse.org/ide/",
+          "description": "An extensible open-source IDE used for Java and other languages."
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/",
+          "description": "A platform for Git repositories, collaboration, issues, code review, and open source."
+        },
+        {
+          "name": "GitLab",
+          "url": "https://gitlab.com/",
+          "description": "A source-control and DevSecOps platform with planning and CI/CD features."
+        },
+        {
+          "name": "IntelliJ IDEA",
+          "url": "https://www.jetbrains.com/idea/",
+          "description": "A feature-rich IDE for Java and other JVM-based development."
+        },
+        {
+          "name": "JSFiddle",
+          "url": "https://jsfiddle.net/",
+          "description": "A quick online editor for testing and sharing HTML, CSS, and JavaScript snippets."
+        },
+        {
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org/",
+          "description": "A trusted reference for web standards, HTML, CSS, JavaScript, and browser APIs."
+        },
+        {
+          "name": "npm",
+          "url": "https://www.npmjs.com/",
+          "description": "A package registry and package manager ecosystem for JavaScript."
+        },
+        {
+          "name": "PyCharm",
+          "url": "https://www.jetbrains.com/pycharm/",
+          "description": "A Python IDE with debugging, testing, and project navigation tools."
+        },
+        {
+          "name": "PyPI",
+          "url": "https://pypi.org/",
+          "description": "The Python Package Index for discovering and installing Python packages."
+        },
+        {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com/",
+          "description": "A question-and-answer community for programming and technical problem solving."
+        },
+        {
+          "name": "StackBlitz",
+          "url": "https://stackblitz.com/",
+          "description": "A browser-based development environment for modern web projects."
+        },
+        {
+          "name": "Visual Studio",
+          "url": "https://visualstudio.microsoft.com/",
+          "description": "A full-featured IDE for .NET, C++, and Windows application development."
+        },
+        {
+          "name": "Visual Studio Code",
+          "url": "https://code.visualstudio.com/",
+          "description": "A popular extensible code editor for web, cloud, and general software development."
+        },
+        {
+          "name": "Xcode",
+          "url": "https://developer.apple.com/xcode/",
+          "description": "Apple's IDE for building apps across its platforms."
+        }
+      ]
+    },
+    {
+      "id": "api-testing-qa",
+      "name": "API Development, Testing & QA",
+      "icon": "🧪",
+      "description": "API clients, automated tests, browser testing, and web quality checks.",
+      "tools": [
+        {
+          "name": "BrowserStack",
+          "url": "https://www.browserstack.com/",
+          "description": "Test websites and apps across browsers, operating systems, and real devices."
+        },
+        {
+          "name": "Cypress",
+          "url": "https://www.cypress.io/",
+          "description": "A testing framework for web application end-to-end and component tests."
+        },
+        {
+          "name": "Insomnia",
+          "url": "https://insomnia.rest/",
+          "description": "An API client for building and testing REST, GraphQL, and other requests."
+        },
+        {
+          "name": "Jest",
+          "url": "https://jestjs.io/",
+          "description": "A JavaScript testing framework commonly used for unit and integration tests."
+        },
+        {
+          "name": "JUnit",
+          "url": "https://junit.org/junit5/",
+          "description": "A testing framework for Java applications."
+        },
+        {
+          "name": "Lighthouse",
+          "url": "https://developer.chrome.com/docs/lighthouse/overview/",
+          "description": "Audit web performance, accessibility, SEO, and best practices."
+        },
+        {
+          "name": "PageSpeed Insights",
+          "url": "https://pagespeed.web.dev/",
+          "description": "Measure page performance and receive optimization recommendations."
+        },
+        {
+          "name": "Playwright",
+          "url": "https://playwright.dev/",
+          "description": "Automate end-to-end tests across major browser engines."
+        },
+        {
+          "name": "Postman",
+          "url": "https://www.postman.com/",
+          "description": "Design, test, document, and collaborate on APIs."
+        },
+        {
+          "name": "pytest",
+          "url": "https://pytest.org/",
+          "description": "A flexible Python testing framework with a rich plugin ecosystem."
+        },
+        {
+          "name": "Selenium",
+          "url": "https://www.selenium.dev/",
+          "description": "Browser automation tools for testing web applications."
+        },
+        {
+          "name": "Stoplight",
+          "url": "https://stoplight.io/",
+          "description": "Design, document, and manage APIs using API-first workflows."
+        },
+        {
+          "name": "Swagger Editor",
+          "url": "https://editor.swagger.io/",
+          "description": "Create and validate OpenAPI API specifications in a browser-based editor."
+        },
+        {
+          "name": "Vitest",
+          "url": "https://vitest.dev/",
+          "description": "A fast testing framework designed for modern JavaScript and Vite projects."
+        },
+        {
+          "name": "WebPageTest",
+          "url": "https://www.webpagetest.org/",
+          "description": "Run detailed website performance tests from different locations and devices."
+        }
+      ]
+    },
+    {
+      "id": "databases-data-engineering",
+      "name": "Databases & Data Engineering",
+      "icon": "💾",
+      "description": "Databases, data pipelines, query tools, and data engineering platforms.",
+      "tools": [
+        {
+          "name": "Apache Airflow",
+          "url": "https://airflow.apache.org/",
+          "description": "Author, schedule, and monitor data workflows using Python."
+        },
+        {
+          "name": "Apache Spark",
+          "url": "https://spark.apache.org/",
+          "description": "A distributed engine for large-scale data processing and analytics."
+        },
+        {
+          "name": "Appwrite",
+          "url": "https://appwrite.io/",
+          "description": "An open-source backend platform for building web, mobile, and Flutter applications."
+        },
+        {
+          "name": "Databricks",
+          "url": "https://www.databricks.com/",
+          "description": "A platform for data engineering, analytics, and machine learning workflows."
+        },
+        {
+          "name": "DBeaver",
+          "url": "https://dbeaver.io/",
+          "description": "A universal database client for connecting to and managing many database systems."
+        },
+        {
+          "name": "dbt",
+          "url": "https://www.getdbt.com/",
+          "description": "Transform data in warehouses using SQL, testing, and version-controlled workflows."
+        },
+        {
+          "name": "Firebase",
+          "url": "https://firebase.google.com/",
+          "description": "Google's app development platform with backend, authentication, analytics, and hosting services."
+        },
+        {
+          "name": "Google BigQuery",
+          "url": "https://cloud.google.com/bigquery",
+          "description": "A managed data warehouse for large-scale SQL analytics."
+        },
+        {
+          "name": "MongoDB",
+          "url": "https://www.mongodb.com/",
+          "description": "A document-oriented database for flexible application data models."
+        },
+        {
+          "name": "MySQL",
+          "url": "https://www.mysql.com/",
+          "description": "A widely used relational database for websites and applications."
+        },
+        {
+          "name": "Neon",
+          "url": "https://neon.tech/",
+          "description": "A serverless PostgreSQL platform with branching and scalable compute."
+        },
+        {
+          "name": "PostgreSQL",
+          "url": "https://www.postgresql.org/",
+          "description": "A powerful open-source relational database system."
+        },
+        {
+          "name": "Redis",
+          "url": "https://redis.io/",
+          "description": "An in-memory data store used for caching, messaging, and fast data access."
+        },
+        {
+          "name": "Snowflake",
+          "url": "https://www.snowflake.com/",
+          "description": "A cloud data platform for data warehousing, engineering, and analytics."
+        },
+        {
+          "name": "SQLite",
+          "url": "https://www.sqlite.org/",
+          "description": "A lightweight, serverless SQL database embedded in applications."
+        },
+        {
+          "name": "Supabase",
+          "url": "https://supabase.com/",
+          "description": "A developer platform built around PostgreSQL with authentication, storage, and APIs."
+        }
+      ]
+    },
+    {
+      "id": "analytics-bi",
+      "name": "Analytics, BI & Product Insights",
+      "icon": "📊",
+      "description": "Business intelligence dashboards, product analytics, and web traffic measurement.",
+      "tools": [
+        {
+          "name": "Amplitude",
+          "url": "https://amplitude.com/",
+          "description": "Product analytics for understanding user behavior and improving digital experiences."
+        },
+        {
+          "name": "Apache Superset",
+          "url": "https://superset.apache.org/",
+          "description": "An open-source platform for data exploration and business intelligence."
+        },
+        {
+          "name": "Data Studio",
+          "url": "https://datastudio.google.com/",
+          "description": "Create and share dashboards and reports; formerly known as Looker Studio."
+        },
+        {
+          "name": "Google Analytics",
+          "url": "https://analytics.google.com/",
+          "description": "Measure website and app traffic, engagement, and conversion events."
+        },
+        {
+          "name": "Jupyter",
+          "url": "https://jupyter.org/",
+          "description": "An interactive notebook environment for data analysis, visualization, and scientific computing."
+        },
+        {
+          "name": "Matomo",
+          "url": "https://matomo.org/",
+          "description": "A web analytics platform with self-hosted and cloud deployment options."
+        },
+        {
+          "name": "Metabase",
+          "url": "https://www.metabase.com/",
+          "description": "Build dashboards and answer data questions with SQL or a visual query builder."
+        },
+        {
+          "name": "Microsoft Power BI",
+          "url": "https://powerbi.microsoft.com/",
+          "description": "Create business reports and interactive dashboards from connected data."
+        },
+        {
+          "name": "Mixpanel",
+          "url": "https://mixpanel.com/",
+          "description": "Analyze product usage, funnels, retention, and user journeys."
+        },
+        {
+          "name": "Plausible Analytics",
+          "url": "https://plausible.io/",
+          "description": "A lightweight web analytics service designed around privacy and simple reporting."
+        },
+        {
+          "name": "PostHog",
+          "url": "https://posthog.com/",
+          "description": "An open-source product analytics platform with feature flags and session replay."
+        },
+        {
+          "name": "Redash",
+          "url": "https://redash.io/",
+          "description": "Query data sources and share visualizations and dashboards."
+        },
+        {
+          "name": "Tableau",
+          "url": "https://www.tableau.com/",
+          "description": "Explore data and communicate insights through interactive visual analytics."
+        }
+      ]
+    },
+    {
+      "id": "design-ui-ux",
+      "name": "Design, UI/UX & Diagramming",
+      "icon": "🎨",
+      "description": "Graphic design, interface design, prototyping, illustration, and diagramming tools.",
+      "tools": [
+        {
+          "name": "Adobe Express",
+          "url": "https://www.adobe.com/express/",
+          "description": "Create quick branded graphics, short videos, and social content."
+        },
+        {
+          "name": "Adobe Illustrator",
+          "url": "https://www.adobe.com/products/illustrator.html",
+          "description": "A vector graphics editor for logos, illustrations, and scalable artwork."
+        },
+        {
+          "name": "Adobe Photoshop",
+          "url": "https://www.adobe.com/products/photoshop.html",
+          "description": "A professional image editor for photo manipulation and raster graphics."
+        },
+        {
+          "name": "Affinity",
+          "url": "https://affinity.studio/",
+          "description": "Professional creative tools for photo editing, vector design, and page layout."
+        },
+        {
+          "name": "Blender",
+          "url": "https://www.blender.org/",
+          "description": "An open-source suite for 3D modeling, animation, rendering, and visual effects."
+        },
+        {
+          "name": "Canva",
+          "url": "https://www.canva.com/",
+          "description": "A template-based design platform for presentations, social posts, and marketing assets."
+        },
+        {
+          "name": "Cinema 4D",
+          "url": "https://www.maxon.net/en/cinema-4d",
+          "description": "A 3D modeling, animation, and motion-graphics application."
+        },
+        {
+          "name": "CorelDRAW",
+          "url": "https://www.coreldraw.com/",
+          "description": "A vector illustration and page-layout suite often used for print and branding."
+        },
+        {
+          "name": "diagrams.net",
+          "url": "https://www.diagrams.net/",
+          "description": "Create flowcharts, architecture diagrams, and process maps."
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com/",
+          "description": "A lightweight sketch-style canvas for diagrams and visual explanations."
+        },
+        {
+          "name": "FigJam",
+          "url": "https://www.figma.com/figjam/",
+          "description": "A collaborative online whiteboard for brainstorming and planning."
+        },
+        {
+          "name": "Figma",
+          "url": "https://www.figma.com/",
+          "description": "Collaborative interface design, prototyping, and design-system workflows."
+        },
+        {
+          "name": "Framer",
+          "url": "https://www.framer.com/",
+          "description": "Design and publish responsive websites with visual tools and interactive components."
+        },
+        {
+          "name": "GIMP",
+          "url": "https://www.gimp.org/",
+          "description": "A free, open-source image editor for photo retouching and graphic work."
+        },
+        {
+          "name": "Inkscape",
+          "url": "https://inkscape.org/",
+          "description": "A free vector graphics editor for SVG illustration and design."
+        },
+        {
+          "name": "Krita",
+          "url": "https://krita.org/",
+          "description": "A free digital painting application for illustration and concept art."
+        },
+        {
+          "name": "Lucidchart",
+          "url": "https://www.lucidchart.com/",
+          "description": "Create and collaborate on flowcharts, process maps, and technical diagrams."
+        },
+        {
+          "name": "Marvel",
+          "url": "https://marvelapp.com/",
+          "description": "A digital product design tool for wireframing, prototyping, and user testing."
+        },
+        {
+          "name": "Penpot",
+          "url": "https://penpot.app/",
+          "description": "An open-source design and prototyping platform for product teams."
+        },
+        {
+          "name": "Photopea",
+          "url": "https://www.photopea.com/",
+          "description": "A browser-based image editor that can open PSD and many other design formats."
+        },
+        {
+          "name": "Sketch",
+          "url": "https://www.sketch.com/",
+          "description": "A design and prototyping tool for digital products, especially on macOS."
+        },
+        {
+          "name": "Whimsical",
+          "url": "https://whimsical.com/",
+          "description": "Create wireframes, flowcharts, mind maps, and lightweight documentation."
+        },
+        {
+          "name": "ZBrush",
+          "url": "https://www.maxon.net/en/zbrush",
+          "description": "A digital sculpting tool for detailed 3D characters and objects."
+        }
+      ]
+    },
+    {
+      "id": "video-audio-ai-media",
+      "name": "Video, Audio & AI Media",
+      "icon": "🎬",
+      "description": "Video editing, screen recording, audio production, and generative media tools.",
+      "tools": [
+        {
+          "name": "Adobe After Effects",
+          "url": "https://www.adobe.com/products/aftereffects.html",
+          "description": "Create motion graphics, animations, and visual effects."
+        },
+        {
+          "name": "Adobe Firefly",
+          "url": "https://firefly.adobe.com/",
+          "description": "Generative AI tools for creating and editing images and other creative assets."
+        },
+        {
+          "name": "Adobe Premiere Pro",
+          "url": "https://www.adobe.com/products/premiere.html",
+          "description": "A professional video editor for social content, films, and commercial projects."
+        },
+        {
+          "name": "Audacity",
+          "url": "https://www.audacityteam.org/",
+          "description": "A free audio editor and recorder for podcasting and sound cleanup."
+        },
+        {
+          "name": "CapCut",
+          "url": "https://www.capcut.com/",
+          "description": "A video editor popular for short-form social videos and creator workflows."
+        },
+        {
+          "name": "Clipdrop",
+          "url": "https://clipdrop.co/",
+          "description": "A collection of AI image tools for cleanup, relighting, upscaling, and background removal."
+        },
+        {
+          "name": "DaVinci Resolve",
+          "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+          "description": "Professional video editing, color grading, visual effects, and audio post-production."
+        },
+        {
+          "name": "Descript",
+          "url": "https://www.descript.com/",
+          "description": "Edit audio and video through transcript-based tools and creator workflows."
+        },
+        {
+          "name": "ElevenLabs",
+          "url": "https://elevenlabs.io/",
+          "description": "AI voice generation, text-to-speech, and audio tools for creators."
+        },
+        {
+          "name": "Final Cut Pro",
+          "url": "https://www.apple.com/final-cut-pro/",
+          "description": "Apple's professional video editing application for Mac and iPad."
+        },
+        {
+          "name": "Ideogram",
+          "url": "https://ideogram.ai/",
+          "description": "An AI image generator often used for posters, typography, and graphic concepts."
+        },
+        {
+          "name": "Leonardo AI",
+          "url": "https://leonardo.ai/",
+          "description": "AI image generation and creative asset tools for design and game-art workflows."
+        },
+        {
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com/",
+          "description": "An AI image-generation tool for concept art, illustration, and visual exploration."
+        },
+        {
+          "name": "OBS Studio",
+          "url": "https://obsproject.com/",
+          "description": "Free, open-source software for live streaming and screen recording."
+        },
+        {
+          "name": "Pika",
+          "url": "https://pika.art/",
+          "description": "An AI video creation tool for generating and transforming short clips."
+        },
+        {
+          "name": "Remove.bg",
+          "url": "https://www.remove.bg/",
+          "description": "Automatically remove image backgrounds for product photos and design assets."
+        },
+        {
+          "name": "Runway",
+          "url": "https://runwayml.com/",
+          "description": "AI-powered tools for generating and editing video and visual media."
+        },
+        {
+          "name": "Suno",
+          "url": "https://suno.com/",
+          "description": "Generate songs and music from text prompts and creative direction."
+        },
+        {
+          "name": "VEED",
+          "url": "https://www.veed.io/",
+          "description": "A browser-based video editor with captions and social-content tools."
+        }
+      ]
+    },
+    {
+      "id": "creative-assets-fonts",
+      "name": "Creative Assets, Icons & Fonts",
+      "icon": "🔤",
+      "description": "Reusable visual assets, stock media, icon libraries, and typefaces.",
+      "tools": [
+        {
+          "name": "Envato Elements",
+          "url": "https://elements.envato.com/",
+          "description": "A subscription library of design templates, stock media, fonts, and creative assets."
+        },
+        {
+          "name": "Font Awesome",
+          "url": "https://fontawesome.com/",
+          "description": "An established icon library for web interfaces and applications."
+        },
+        {
+          "name": "Freepik",
+          "url": "https://www.freepik.com/",
+          "description": "Discover stock vectors, photos, templates, icons, and other design assets."
+        },
+        {
+          "name": "FreeSound",
+          "url": "https://freesound.org/",
+          "description": "A community library of sound effects and audio recordings with varied licenses."
+        },
+        {
+          "name": "Google Fonts",
+          "url": "https://fonts.google.com/",
+          "description": "Browse and use a large catalog of web fonts."
+        },
+        {
+          "name": "Heroicons",
+          "url": "https://heroicons.com/",
+          "description": "A set of SVG icons designed for modern web interfaces."
+        },
+        {
+          "name": "Icons8",
+          "url": "https://icons8.com/",
+          "description": "Icons, illustrations, photos, and other assets for digital products."
+        },
+        {
+          "name": "LottieFiles",
+          "url": "https://lottiefiles.com/",
+          "description": "Find, preview, and manage lightweight animations for digital experiences."
+        },
+        {
+          "name": "Lucide",
+          "url": "https://lucide.dev/",
+          "description": "A consistent open-source icon set for web and app interfaces."
+        },
+        {
+          "name": "Openverse",
+          "url": "https://openverse.org/",
+          "description": "Search openly licensed and public-domain media across the web."
+        },
+        {
+          "name": "Pexels",
+          "url": "https://www.pexels.com/",
+          "description": "Free stock photos and videos contributed by a creator community."
+        },
+        {
+          "name": "Pixabay",
+          "url": "https://pixabay.com/",
+          "description": "A broad library of stock images, illustrations, videos, and audio."
+        },
+        {
+          "name": "The Noun Project",
+          "url": "https://thenounproject.com/",
+          "description": "A searchable library of symbols and icons for communication and design."
+        },
+        {
+          "name": "Unsplash",
+          "url": "https://unsplash.com/",
+          "description": "A library of photography for websites, presentations, and creative projects."
+        }
+      ]
+    },
+    {
+      "id": "writing-translation-publishing",
+      "name": "Writing, Translation & Publishing",
+      "icon": "📝",
+      "description": "Writing assistance, translation, note-taking, documentation, and publishing platforms.",
+      "tools": [
+        {
+          "name": "Bear",
+          "url": "https://bear.app/",
+          "description": "A minimalist Markdown note-taking and writing app for Apple platforms."
+        },
+        {
+          "name": "DeepL",
+          "url": "https://www.deepl.com/",
+          "description": "Machine translation and writing assistance for many languages."
+        },
+        {
+          "name": "Evernote",
+          "url": "https://evernote.com/",
+          "description": "Capture notes, documents, and web clippings in a searchable workspace."
+        },
+        {
+          "name": "Ghost",
+          "url": "https://ghost.org/",
+          "description": "A publishing platform for independent websites, newsletters, and memberships."
+        },
+        {
+          "name": "Google Docs",
+          "url": "https://docs.google.com/",
+          "description": "A cloud word processor for writing and collaborating on documents."
+        },
+        {
+          "name": "Grammarly",
+          "url": "https://www.grammarly.com/",
+          "description": "Writing suggestions for grammar, clarity, tone, and readability."
+        },
+        {
+          "name": "Hemingway Editor",
+          "url": "https://hemingwayapp.com/",
+          "description": "Highlights writing that may be difficult to read and helps simplify prose."
+        },
+        {
+          "name": "Joplin",
+          "url": "https://joplinapp.org/",
+          "description": "An open-source note-taking and to-do app with synchronization options."
+        },
+        {
+          "name": "LanguageTool",
+          "url": "https://languagetool.org/",
+          "description": "A grammar and style checker that supports multiple languages."
+        },
+        {
+          "name": "Medium",
+          "url": "https://medium.com/",
+          "description": "An online publishing platform for articles and essays."
+        },
+        {
+          "name": "Microsoft Word",
+          "url": "https://www.microsoft.com/microsoft-365/word",
+          "description": "A widely used word processor for documents and long-form writing."
+        },
+        {
+          "name": "Obsidian",
+          "url": "https://obsidian.md/",
+          "description": "A local-first knowledge base built around linked Markdown notes."
+        },
+        {
+          "name": "QuillBot",
+          "url": "https://quillbot.com/",
+          "description": "Writing tools for paraphrasing, summarizing, and grammar checks."
+        },
+        {
+          "name": "Scrivener",
+          "url": "https://www.literatureandlatte.com/scrivener/overview",
+          "description": "A long-form writing environment for organizing complex manuscripts."
+        },
+        {
+          "name": "Substack",
+          "url": "https://substack.com/",
+          "description": "Publish newsletters and build a reader-supported publication."
+        },
+        {
+          "name": "WordPress",
+          "url": "https://wordpress.org/",
+          "description": "An open-source content management system for websites and publishing."
+        },
+        {
+          "name": "Zettlr",
+          "url": "https://www.zettlr.com/",
+          "description": "An open-source Markdown editor for researchers and long-form writers."
+        }
+      ]
+    },
+    {
+      "id": "productivity-project-management",
+      "name": "Productivity & Project Management",
+      "icon": "✅",
+      "description": "Task planning, team project tracking, calendars, time tracking, and personal organization.",
+      "tools": [
+        {
+          "name": "Asana",
+          "url": "https://asana.com/",
+          "description": "Plan projects, assign tasks, and track work across teams."
+        },
+        {
+          "name": "Basecamp",
+          "url": "https://basecamp.com/",
+          "description": "Coordinate projects with message boards, to-dos, schedules, and files."
+        },
+        {
+          "name": "Calendly",
+          "url": "https://calendly.com/",
+          "description": "Let people book meetings based on your availability and scheduling rules."
+        },
+        {
+          "name": "ClickUp",
+          "url": "https://clickup.com/",
+          "description": "A configurable workspace for tasks, docs, goals, and project workflows."
+        },
+        {
+          "name": "Clockify",
+          "url": "https://clockify.me/",
+          "description": "Track work hours and review time spent on projects."
+        },
+        {
+          "name": "Google Calendar",
+          "url": "https://calendar.google.com/",
+          "description": "Schedule events, manage calendars, and coordinate availability."
+        },
+        {
+          "name": "Jira",
+          "url": "https://www.atlassian.com/software/jira",
+          "description": "Track issues, backlogs, and agile software projects."
+        },
+        {
+          "name": "Linear",
+          "url": "https://linear.app/",
+          "description": "Plan software projects and manage issues with a streamlined workflow."
+        },
+        {
+          "name": "Microsoft Planner",
+          "url": "https://www.microsoft.com/microsoft-365/planner/microsoft-planner",
+          "description": "Organize team tasks and plans within the Microsoft 365 ecosystem."
+        },
+        {
+          "name": "Monday.com",
+          "url": "https://monday.com/",
+          "description": "Manage projects and business workflows using configurable boards."
+        },
+        {
+          "name": "Notion",
+          "url": "https://www.notion.so/",
+          "description": "Combine notes, documents, databases, wikis, and project workspaces."
+        },
+        {
+          "name": "Smartsheet",
+          "url": "https://www.smartsheet.com/",
+          "description": "Manage projects and processes with spreadsheet-style work management."
+        },
+        {
+          "name": "Taiga",
+          "url": "https://taiga.io/",
+          "description": "An open-source project management tool for agile teams."
+        },
+        {
+          "name": "Todoist",
+          "url": "https://todoist.com/",
+          "description": "Organize personal and team tasks with projects, labels, and reminders."
+        },
+        {
+          "name": "Toggl Track",
+          "url": "https://toggl.com/track/",
+          "description": "A time-tracking tool for understanding how time is spent across work."
+        },
+        {
+          "name": "Trello",
+          "url": "https://trello.com/",
+          "description": "Manage work visually with boards, lists, and cards."
+        }
+      ]
+    },
+    {
+      "id": "communication-cloud-docs",
+      "name": "Communication, Meetings & Cloud Documents",
+      "icon": "💬",
+      "description": "Team messaging, video meetings, shared files, and office productivity suites.",
+      "tools": [
+        {
+          "name": "Discord",
+          "url": "https://discord.com/",
+          "description": "Voice, video, and text communities for teams, creators, and interest groups."
+        },
+        {
+          "name": "Dropbox",
+          "url": "https://www.dropbox.com/",
+          "description": "Cloud file storage, sharing, and synchronization across devices."
+        },
+        {
+          "name": "Google Drive",
+          "url": "https://drive.google.com/",
+          "description": "Store, organize, and share files with cloud collaboration features."
+        },
+        {
+          "name": "Google Meet",
+          "url": "https://meet.google.com/",
+          "description": "Video meetings integrated with Google accounts and Workspace."
+        },
+        {
+          "name": "Google Workspace",
+          "url": "https://workspace.google.com/",
+          "description": "A suite of email, document, spreadsheet, storage, and collaboration tools."
+        },
+        {
+          "name": "Lark",
+          "url": "https://www.larksuite.com/",
+          "description": "A collaboration suite combining chat, documents, calendars, and meetings."
+        },
+        {
+          "name": "Loom",
+          "url": "https://www.loom.com/",
+          "description": "Record and share short screen-and-camera videos for asynchronous communication."
+        },
+        {
+          "name": "Mattermost",
+          "url": "https://mattermost.com/",
+          "description": "A team messaging platform with self-hosting options for technical teams."
+        },
+        {
+          "name": "Microsoft 365",
+          "url": "https://www.microsoft.com/microsoft-365/",
+          "description": "Office apps, cloud storage, email, and collaboration services."
+        },
+        {
+          "name": "Microsoft OneDrive",
+          "url": "https://www.microsoft.com/microsoft-365/onedrive/online-cloud-storage",
+          "description": "Cloud storage integrated with Windows and Microsoft 365 apps."
+        },
+        {
+          "name": "Microsoft Teams",
+          "url": "https://www.microsoft.com/microsoft-teams/",
+          "description": "Team chat, meetings, calling, and collaboration in Microsoft workflows."
+        },
+        {
+          "name": "Proton Drive",
+          "url": "https://proton.me/drive",
+          "description": "Cloud file storage with end-to-end encryption features."
+        },
+        {
+          "name": "Slack",
+          "url": "https://slack.com/",
+          "description": "Team messaging with channels, search, and app integrations."
+        },
+        {
+          "name": "Zoom",
+          "url": "https://zoom.us/",
+          "description": "Video meetings, webinars, and online collaboration."
+        }
+      ]
+    },
+    {
+      "id": "cloud-hosting-deployment",
+      "name": "Cloud, Hosting & Deployment",
+      "icon": "🌎",
+      "description": "Cloud infrastructure, app hosting, frontend deployment, and managed platforms.",
+      "tools": [
+        {
+          "name": "Akamai Cloud",
+          "url": "https://www.akamai.com/cloud/pricing",
+          "description": "Cloud compute and networking services formerly widely known as Linode."
+        },
+        {
+          "name": "Amazon Web Services",
+          "url": "https://aws.amazon.com/",
+          "description": "A broad cloud platform for compute, storage, databases, networking, and more."
+        },
+        {
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com/",
+          "description": "Network, DNS, CDN, application security, and developer platform services."
+        },
+        {
+          "name": "DigitalOcean",
+          "url": "https://www.digitalocean.com/",
+          "description": "Cloud infrastructure and managed services aimed at developers and small teams."
+        },
+        {
+          "name": "Firebase Hosting",
+          "url": "https://firebase.google.com/docs/hosting",
+          "description": "Deploy web applications and static content with Firebase tooling."
+        },
+        {
+          "name": "Fly.io",
+          "url": "https://fly.io/",
+          "description": "Run applications close to users on a globally distributed infrastructure."
+        },
+        {
+          "name": "GitHub Pages",
+          "url": "https://pages.github.com/",
+          "description": "Host static websites directly from a GitHub repository."
+        },
+        {
+          "name": "Google Cloud",
+          "url": "https://cloud.google.com/",
+          "description": "Google's cloud platform for infrastructure, data, AI, and application services."
+        },
+        {
+          "name": "Heroku",
+          "url": "https://www.heroku.com/",
+          "description": "A managed application platform that simplifies deployment and operations."
+        },
+        {
+          "name": "Microsoft Azure",
+          "url": "https://azure.microsoft.com/",
+          "description": "Microsoft's cloud platform for application hosting, data, AI, and infrastructure."
+        },
+        {
+          "name": "Netlify",
+          "url": "https://www.netlify.com/",
+          "description": "Build, deploy, and host modern websites with continuous deployment."
+        },
+        {
+          "name": "Railway",
+          "url": "https://railway.com/",
+          "description": "Deploy applications and databases through a developer-focused cloud platform."
+        },
+        {
+          "name": "Render",
+          "url": "https://render.com/",
+          "description": "Deploy web services, static sites, databases, and background workers."
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com/",
+          "description": "Deploy frontend applications and serverless functions with preview workflows."
+        }
+      ]
+    },
+    {
+      "id": "devops-monitoring",
+      "name": "DevOps, Containers & Monitoring",
+      "icon": "🐳",
+      "description": "Build pipelines, infrastructure automation, container platforms, observability, and uptime monitoring.",
+      "tools": [
+        {
+          "name": "Ansible",
+          "url": "https://www.ansible.com/",
+          "description": "Automate infrastructure configuration, deployment, and routine IT tasks."
+        },
+        {
+          "name": "Better Stack",
+          "url": "https://betterstack.com/",
+          "description": "Uptime monitoring, incident response, logs, and status pages."
+        },
+        {
+          "name": "Datadog",
+          "url": "https://www.datadoghq.com/",
+          "description": "Monitor infrastructure, applications, logs, and distributed traces."
+        },
+        {
+          "name": "Docker",
+          "url": "https://www.docker.com/",
+          "description": "Build, package, and run applications in containers."
+        },
+        {
+          "name": "Elastic Stack",
+          "url": "https://www.elastic.co/elastic-stack",
+          "description": "Collect, search, analyze, and visualize logs and operational data."
+        },
+        {
+          "name": "GitHub Actions",
+          "url": "https://github.com/features/actions",
+          "description": "Automate software build, test, and deployment workflows from repositories."
+        },
+        {
+          "name": "Grafana",
+          "url": "https://grafana.com/",
+          "description": "Visualize metrics and logs through dashboards and observability integrations."
+        },
+        {
+          "name": "Jenkins",
+          "url": "https://www.jenkins.io/",
+          "description": "An extensible automation server commonly used for CI/CD pipelines."
+        },
+        {
+          "name": "Kubernetes",
+          "url": "https://kubernetes.io/",
+          "description": "Automate deployment, scaling, and management of containerized applications."
+        },
+        {
+          "name": "New Relic",
+          "url": "https://newrelic.com/",
+          "description": "Observe application performance, infrastructure, and telemetry."
+        },
+        {
+          "name": "PagerDuty",
+          "url": "https://www.pagerduty.com/",
+          "description": "Coordinate on-call schedules, alerts, and incident response."
+        },
+        {
+          "name": "Prometheus",
+          "url": "https://prometheus.io/",
+          "description": "Collect and query time-series metrics for monitoring systems and applications."
+        },
+        {
+          "name": "Sentry",
+          "url": "https://sentry.io/",
+          "description": "Find and diagnose application errors and performance issues."
+        },
+        {
+          "name": "Terraform",
+          "url": "https://www.terraform.io/",
+          "description": "Provision and manage infrastructure using declarative configuration."
+        },
+        {
+          "name": "Uptime Kuma",
+          "url": "https://uptime.kuma.pet/",
+          "description": "A self-hosted status and uptime monitoring tool."
+        }
+      ]
+    },
+    {
+      "id": "security-privacy",
+      "name": "Security & Privacy",
+      "icon": "🔒",
+      "description": "Password management, vulnerability discovery, web security testing, and privacy tools.",
+      "tools": [
+        {
+          "name": "1Password",
+          "url": "https://1password.com/",
+          "description": "A password and secrets manager for individuals, families, and teams."
+        },
+        {
+          "name": "Bitwarden",
+          "url": "https://bitwarden.com/",
+          "description": "A password manager for securely storing and sharing credentials."
+        },
+        {
+          "name": "Burp Suite",
+          "url": "https://portswigger.net/burp",
+          "description": "A toolkit for authorized web application security testing."
+        },
+        {
+          "name": "Dependabot",
+          "url": "https://github.com/features/security",
+          "description": "Detect dependency vulnerabilities and help keep software packages updated."
+        },
+        {
+          "name": "Have I Been Pwned",
+          "url": "https://haveibeenpwned.com/",
+          "description": "Check whether an email address appears in known data breaches."
+        },
+        {
+          "name": "Let's Encrypt",
+          "url": "https://letsencrypt.org/",
+          "description": "A nonprofit certificate authority providing free TLS certificates."
+        },
+        {
+          "name": "OWASP ZAP",
+          "url": "https://www.zaproxy.org/",
+          "description": "An open-source tool for testing web application security."
+        },
+        {
+          "name": "Proton Pass",
+          "url": "https://proton.me/pass",
+          "description": "An encrypted password manager with aliases and secure sharing features."
+        },
+        {
+          "name": "Snyk",
+          "url": "https://snyk.io/",
+          "description": "Find and remediate vulnerabilities in code, dependencies, containers, and cloud configurations."
+        },
+        {
+          "name": "VirusTotal",
+          "url": "https://www.virustotal.com/",
+          "description": "Check files, URLs, domains, and IP addresses against multiple security engines."
+        }
+      ]
+    },
+    {
+      "id": "marketing-seo-social",
+      "name": "Marketing, SEO & Social Media",
+      "icon": "📣",
+      "description": "Search optimization, advertising, social publishing, email campaigns, and audience growth.",
+      "tools": [
+        {
+          "name": "Ahrefs",
+          "url": "https://ahrefs.com/",
+          "description": "Research keywords, backlinks, competitors, and website SEO performance."
+        },
+        {
+          "name": "Brevo",
+          "url": "https://www.brevo.com/",
+          "description": "Run email and SMS campaigns with marketing automation and customer messaging."
+        },
+        {
+          "name": "Buffer",
+          "url": "https://buffer.com/",
+          "description": "Plan, schedule, and analyze social media content."
+        },
+        {
+          "name": "Google Ads",
+          "url": "https://ads.google.com/",
+          "description": "Create and manage advertising campaigns across Google's advertising network."
+        },
+        {
+          "name": "Google Search Console",
+          "url": "https://search.google.com/search-console/about",
+          "description": "Monitor how a website appears and performs in Google Search."
+        },
+        {
+          "name": "Hootsuite",
+          "url": "https://www.hootsuite.com/",
+          "description": "Manage social publishing, monitoring, and analytics across channels."
+        },
+        {
+          "name": "Kit",
+          "url": "https://kit.com/",
+          "description": "An email marketing and automation platform for creators, newsletters, and audience growth."
+        },
+        {
+          "name": "Later",
+          "url": "https://later.com/",
+          "description": "Plan and schedule visual social content and creator campaigns."
+        },
+        {
+          "name": "Mailchimp",
+          "url": "https://mailchimp.com/",
+          "description": "Create email campaigns, audience segments, and marketing automations."
+        },
+        {
+          "name": "MailerLite",
+          "url": "https://www.mailerlite.com/",
+          "description": "Build email newsletters, landing pages, and automated campaigns."
+        },
+        {
+          "name": "Meta Ads Manager",
+          "url": "https://www.facebook.com/business/tools/ads-manager",
+          "description": "Create, manage, and measure advertising campaigns across Meta platforms."
+        },
+        {
+          "name": "Meta Business Suite",
+          "url": "https://business.facebook.com/",
+          "description": "Manage Facebook and Instagram content, messages, and insights."
+        },
+        {
+          "name": "Metricool",
+          "url": "https://metricool.com/",
+          "description": "Schedule social content and review performance analytics across platforms."
+        },
+        {
+          "name": "Moz",
+          "url": "https://moz.com/",
+          "description": "SEO tools and learning resources for keyword research and site improvement."
+        },
+        {
+          "name": "Screaming Frog SEO Spider",
+          "url": "https://www.screamingfrog.co.uk/seo-spider/",
+          "description": "Crawl websites to audit technical SEO and identify site issues."
+        },
+        {
+          "name": "Semrush",
+          "url": "https://www.semrush.com/",
+          "description": "A digital marketing toolkit for SEO, competitor research, content, and advertising."
+        },
+        {
+          "name": "Sprout Social",
+          "url": "https://sproutsocial.com/",
+          "description": "Manage social publishing, customer engagement, and reporting."
+        },
+        {
+          "name": "TikTok Studio",
+          "url": "https://www.tiktok.com/tiktokstudio",
+          "description": "Manage TikTok content and review creator analytics."
+        },
+        {
+          "name": "YouTube Studio",
+          "url": "https://studio.youtube.com/",
+          "description": "Upload, manage, and analyze videos for a YouTube channel."
+        }
+      ]
+    },
+    {
+      "id": "automation-no-code-web-builders",
+      "name": "Automation, No-Code & Website Builders",
+      "icon": "🔗",
+      "description": "Connect apps, automate workflows, and build websites or internal tools with little code.",
+      "tools": [
+        {
+          "name": "Bubble",
+          "url": "https://bubble.io/",
+          "description": "Build interactive web applications with a visual no-code editor."
+        },
+        {
+          "name": "Glide",
+          "url": "https://www.glideapps.com/",
+          "description": "Create business apps from data sources using a visual builder."
+        },
+        {
+          "name": "IFTTT",
+          "url": "https://ifttt.com/",
+          "description": "Create simple automations between apps, smart devices, and online services."
+        },
+        {
+          "name": "Make",
+          "url": "https://www.make.com/",
+          "description": "Build visual automations that connect apps, APIs, and business processes."
+        },
+        {
+          "name": "Microsoft Power Automate",
+          "url": "https://www.microsoft.com/power-platform/products/power-automate",
+          "description": "Automate business processes across Microsoft and supported third-party services."
+        },
+        {
+          "name": "n8n",
+          "url": "https://n8n.io/",
+          "description": "A workflow automation platform with visual building and self-hosting options."
+        },
+        {
+          "name": "Softr",
+          "url": "https://www.softr.io/",
+          "description": "Build client portals and internal tools from spreadsheets and databases."
+        },
+        {
+          "name": "Squarespace",
+          "url": "https://www.squarespace.com/",
+          "description": "Create websites, portfolios, and online stores with managed hosting."
+        },
+        {
+          "name": "Webflow",
+          "url": "https://webflow.com/",
+          "description": "Design, build, and publish responsive websites visually."
+        },
+        {
+          "name": "Wix",
+          "url": "https://www.wix.com/",
+          "description": "Build and manage websites with templates and visual editing tools."
+        },
+        {
+          "name": "Zapier",
+          "url": "https://zapier.com/",
+          "description": "Connect web apps and automate repetitive workflows without building custom integrations."
+        }
+      ]
+    },
+    {
+      "id": "business-crm-ecommerce",
+      "name": "Business, CRM & E-commerce",
+      "icon": "💼",
+      "description": "Customer relationship management, online sales, payments, and small-business finance.",
+      "tools": [
+        {
+          "name": "Gumroad",
+          "url": "https://gumroad.com/",
+          "description": "Sell digital products, memberships, and creator offerings online."
+        },
+        {
+          "name": "HubSpot",
+          "url": "https://www.hubspot.com/",
+          "description": "A CRM platform for contact management, sales, marketing, and customer service."
+        },
+        {
+          "name": "Lemon Squeezy",
+          "url": "https://www.lemonsqueezy.com/",
+          "description": "Sell digital products and manage checkout, subscriptions, and tax-related workflows."
+        },
+        {
+          "name": "PayPal",
+          "url": "https://www.paypal.com/",
+          "description": "Send and receive online payments for personal and business transactions."
+        },
+        {
+          "name": "Pipedrive",
+          "url": "https://www.pipedrive.com/",
+          "description": "A sales CRM focused on managing leads, deals, and pipelines."
+        },
+        {
+          "name": "QuickBooks",
+          "url": "https://quickbooks.intuit.com/",
+          "description": "Accounting and bookkeeping software for small businesses."
+        },
+        {
+          "name": "Salesforce",
+          "url": "https://www.salesforce.com/",
+          "description": "A customer relationship management platform for sales, service, and marketing."
+        },
+        {
+          "name": "Shopify",
+          "url": "https://www.shopify.com/",
+          "description": "Create and manage an online store, catalog, and commerce operations."
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/",
+          "description": "Payment processing and financial infrastructure for online businesses."
+        },
+        {
+          "name": "Wave",
+          "url": "https://www.waveapps.com/",
+          "description": "Small-business invoicing and accounting tools."
+        },
+        {
+          "name": "WooCommerce",
+          "url": "https://woocommerce.com/",
+          "description": "An e-commerce platform that adds online-store functionality to WordPress."
+        },
+        {
+          "name": "Xero",
+          "url": "https://www.xero.com/",
+          "description": "Cloud accounting software for invoices, expenses, and financial reporting."
+        }
+      ]
+    },
+    {
+      "id": "learning-developer-resources",
+      "name": "Learning & Developer Resources",
+      "icon": "📚",
+      "description": "Online courses, programming practice, tutorials, and structured learning paths.",
+      "tools": [
+        {
+          "name": "Codecademy",
+          "url": "https://www.codecademy.com/",
+          "description": "Interactive programming and technology courses."
+        },
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/",
+          "description": "Online courses and professional certificates from universities and organizations."
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/",
+          "description": "Online courses and programs from universities and institutions."
+        },
+        {
+          "name": "Exercism",
+          "url": "https://exercism.org/",
+          "description": "Practice programming languages with exercises and mentoring."
+        },
+        {
+          "name": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org/",
+          "description": "Free coding lessons and projects covering web development and other technical skills."
+        },
+        {
+          "name": "Frontend Masters",
+          "url": "https://frontendmasters.com/",
+          "description": "In-depth training for frontend and full-stack web developers."
+        },
+        {
+          "name": "HackerRank",
+          "url": "https://www.hackerrank.com/",
+          "description": "Practice programming problems and assess technical skills."
+        },
+        {
+          "name": "Kaggle",
+          "url": "https://www.kaggle.com/",
+          "description": "Discover datasets, run notebooks, and participate in machine-learning competitions."
+        },
+        {
+          "name": "Khan Academy",
+          "url": "https://www.khanacademy.org/",
+          "description": "Free lessons and exercises in computing, math, science, and other subjects."
+        },
+        {
+          "name": "LeetCode",
+          "url": "https://leetcode.com/",
+          "description": "Practice coding and algorithms through programming challenges."
+        },
+        {
+          "name": "roadmap.sh",
+          "url": "https://roadmap.sh/",
+          "description": "Community-maintained roadmaps for learning software development skills."
+        },
+        {
+          "name": "Scrimba",
+          "url": "https://scrimba.com/",
+          "description": "Interactive coding courses with editable code embedded in lessons."
+        },
+        {
+          "name": "The Odin Project",
+          "url": "https://www.theodinproject.com/",
+          "description": "A free, project-based curriculum for learning full-stack web development."
+        },
+        {
+          "name": "Udacity",
+          "url": "https://www.udacity.com/",
+          "description": "Career-focused technology courses and project-based programs."
+        },
+        {
+          "name": "Udemy",
+          "url": "https://www.udemy.com/",
+          "description": "A marketplace of on-demand courses across technology and other subjects."
+        },
+        {
+          "name": "W3Schools",
+          "url": "https://www.w3schools.com/",
+          "description": "Beginner-friendly web development tutorials and interactive examples."
+        }
+      ]
+    },
+    {
+      "id": "research-academic",
+      "name": "Research & Academic Tools",
+      "icon": "🔬",
+      "description": "Find scholarly literature, organize references, and discover research papers.",
+      "tools": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/",
+          "description": "Access preprints in fields such as computer science, physics, and mathematics."
+        },
+        {
+          "name": "Google Scholar",
+          "url": "https://scholar.google.com/",
+          "description": "Search scholarly articles, theses, books, and citations."
+        },
+        {
+          "name": "Mendeley",
+          "url": "https://www.mendeley.com/",
+          "description": "Manage research references and organize academic reading."
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/",
+          "description": "Explore an open catalog of scholarly works, authors, institutions, and topics."
+        },
+        {
+          "name": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "description": "Search biomedical and life-sciences literature."
+        },
+        {
+          "name": "Semantic Scholar",
+          "url": "https://www.semanticscholar.org/",
+          "description": "Search scientific literature with AI-assisted discovery features."
+        },
+        {
+          "name": "Zotero",
+          "url": "https://www.zotero.org/",
+          "description": "Collect, organize, cite, and share research sources."
+        }
+      ]
+    },
+    {
+      "id": "file-pdf-web-utilities",
+      "name": "File, PDF & Web Utilities",
+      "icon": "🧰",
+      "description": "Common online utilities for document conversion, image optimization, translation, and quick tasks.",
+      "tools": [
+        {
+          "name": "Adobe Acrobat Online",
+          "url": "https://www.adobe.com/acrobat/online.html",
+          "description": "Convert, compress, sign, and manage PDF documents online."
+        },
+        {
+          "name": "Cleanup.pictures",
+          "url": "https://cleanup.pictures/",
+          "description": "Remove unwanted objects from images using a browser-based editing tool."
+        },
+        {
+          "name": "CloudConvert",
+          "url": "https://cloudconvert.com/",
+          "description": "Convert documents, images, audio, video, and other file formats."
+        },
+        {
+          "name": "Convertio",
+          "url": "https://convertio.co/",
+          "description": "An online file converter supporting many media and document formats."
+        },
+        {
+          "name": "Google Translate",
+          "url": "https://translate.google.com/",
+          "description": "Translate text, documents, websites, and conversations across languages."
+        },
+        {
+          "name": "iLovePDF",
+          "url": "https://www.ilovepdf.com/",
+          "description": "Merge, split, compress, convert, and edit PDF files online."
+        },
+        {
+          "name": "PDF24 Tools",
+          "url": "https://tools.pdf24.org/",
+          "description": "Free online tools for common PDF conversions and document tasks."
+        },
+        {
+          "name": "QR Code Monkey",
+          "url": "https://www.qrcode-monkey.com/",
+          "description": "Create customizable QR codes for links, contact details, and other content."
+        },
+        {
+          "name": "Smallpdf",
+          "url": "https://smallpdf.com/",
+          "description": "A set of browser tools for converting, compressing, and managing PDF documents."
+        },
+        {
+          "name": "Speedtest by Ookla",
+          "url": "https://www.speedtest.net/",
+          "description": "Measure internet download speed, upload speed, and latency."
+        },
+        {
+          "name": "Squoosh",
+          "url": "https://squoosh.app/",
+          "description": "Compare image formats and compression settings in a browser-based image optimizer."
+        },
+        {
+          "name": "TinyPNG",
+          "url": "https://tinypng.com/",
+          "description": "Compress PNG, JPEG, and WebP images for faster websites and smaller files."
+        },
+        {
+          "name": "What Is My IP Address",
+          "url": "https://whatismyipaddress.com/",
+          "description": "View public IP information and basic network-related details."
+        },
+        {
+          "name": "WorldTimeBuddy",
+          "url": "https://www.worldtimebuddy.com/",
+          "description": "Compare time zones to find suitable times for meetings and travel planning."
+        }
+      ]
+    }
+  ]
+}

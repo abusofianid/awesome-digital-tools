@@ -1,0 +1,1700 @@
+{
+  "title": "Alat Digital Luar Biasa",
+  "description": "Direktori kurasi alat digital yang banyak digunakan untuk kecerdasan buatan, pengembangan perangkat lunak, desain, produktivitas, bisnis, pembelajaran, dan pekerjaan sehari-hari.",
+  "language": "id",
+  "categories": [
+    {
+      "id": "ai-assistants-research",
+      "name": "Asisten Kecerdasan Buatan & Penelitian",
+      "icon": "🤖",
+      "description": "Asisten kecerdasan buatan serbaguna, mesin penjawab, dan alat penelitian.",
+      "tools": [
+        {
+          "name": "ChatGPT",
+          "url": "https://chatgpt.com/",
+          "description": "Asisten kecerdasan buatan untuk menulis, analisis, pembelajaran, pengodean, dan pekerjaan yang berkaitan dengan berkas."
+        },
+        {
+          "name": "Claude",
+          "url": "https://claude.ai/",
+          "description": "Asisten kecerdasan buatan yang cocok untuk menulis, bernalar, analisis dokumen, dan pengodean."
+        },
+        {
+          "name": "DeepSeek",
+          "url": "https://www.deepseek.com/",
+          "description": "Model obrolan dan penalaran kecerdasan buatan untuk pertanyaan umum dan tugas teknis."
+        },
+        {
+          "name": "Google Gemini",
+          "url": "https://gemini.google.com/",
+          "description": "Asisten kecerdasan buatan dari Google untuk penelitian, menulis, curah gagasan, dan tugas dalam ekosistem Google."
+        },
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/",
+          "description": "Pusat untuk menemukan, berbagi, dan menjalankan model pembelajaran mesin serta set data."
+        },
+        {
+          "name": "Microsoft Copilot",
+          "url": "https://copilot.microsoft.com/",
+          "description": "Asisten kecerdasan buatan untuk riset web, pertanyaan sehari-hari, dan alur kerja Microsoft."
+        },
+        {
+          "name": "Mistral Le Chat",
+          "url": "https://chat.mistral.ai/",
+          "description": "Asisten obrolan kecerdasan buatan dari Mistral untuk menulis, analisis, dan penelitian."
+        },
+        {
+          "name": "NotebookLM",
+          "url": "https://notebooklm.google.com/",
+          "description": "Asisten penelitian yang menjawab pertanyaan menggunakan sumber yang Anda sediakan."
+        },
+        {
+          "name": "Perplexity",
+          "url": "https://www.perplexity.ai/",
+          "description": "Mesin penjawab yang menelusuri web dan memberikan respons yang dilengkapi dengan tautan ke sumber aslinya."
+        },
+        {
+          "name": "Poe",
+          "url": "https://poe.com/",
+          "description": "Platform untuk menggunakan berbagai model kecerdasan buatan dan bot buatan komunitas di satu tempat."
+        }
+      ]
+    },
+    {
+      "id": "ai-coding-app-builders",
+      "name": "Pengodean Kecerdasan Buatan & Pembuat Aplikasi",
+      "icon": "🪄",
+      "description": "Pemrograman berbantuan kecerdasan buatan, tinjauan kode, dan pengembangan aplikasi berbasis perintah.",
+      "tools": [
+        {
+          "name": "Bolt.new",
+          "url": "https://bolt.new/",
+          "description": "Bangun dan iterasi aplikasi web dari perintah bahasa alami di peramban web."
+        },
+        {
+          "name": "Claude Code",
+          "url": "https://claude.com/product/claude-code",
+          "description": "Alat pengodean mandiri (agen) yang dapat memahami repositori dan melakukan tugas pengembangan."
+        },
+        {
+          "name": "Cline",
+          "url": "https://cline.bot/",
+          "description": "Agen pengodean sumber terbuka yang terintegrasi di dalam Visual Studio Code."
+        },
+        {
+          "name": "CodeRabbit",
+          "url": "https://www.coderabbit.ai/",
+          "description": "Tinjauan kode berbantuan kecerdasan buatan yang memberikan umpan balik pada permintaan tarik (pull request)."
+        },
+        {
+          "name": "Continue",
+          "url": "https://www.continue.dev/",
+          "description": "Asisten pengodean kecerdasan buatan sumber terbuka untuk lingkungan pengembangan populer."
+        },
+        {
+          "name": "Cursor",
+          "url": "https://cursor.com/",
+          "description": "Penyunting kode yang berfokus pada kecerdasan buatan untuk obrolan peka basis kode, penyuntingan, dan alur kerja agen."
+        },
+        {
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "Bantuan pengodean kecerdasan buatan yang terintegrasi ke dalam penyunting teks yang didukung dan alur kerja GitHub."
+        },
+        {
+          "name": "Lovable",
+          "url": "https://lovable.dev/",
+          "description": "Hasilkan dan sempurnakan aplikasi web full-stack melalui perintah percakapan."
+        },
+        {
+          "name": "Replit",
+          "url": "https://replit.com/",
+          "description": "Lingkungan pengembangan berbasis peramban web untuk membangun, menjalankan, dan berbagi aplikasi."
+        },
+        {
+          "name": "Tabnine",
+          "url": "https://www.tabnine.com/",
+          "description": "Penyelesaian kode dan bantuan kecerdasan buatan untuk pengembang individu maupun tim."
+        },
+        {
+          "name": "v0",
+          "url": "https://v0.dev/",
+          "description": "Buat desain antarmuka pengguna dan kode aplikasi web dari perintah, dengan fokus pada teknologi web modern."
+        }
+      ]
+    },
+    {
+      "id": "development-ides",
+      "name": "Pengembangan & Lingkungan Pengembangan Terpadu",
+      "icon": "💻",
+      "description": "Penyunting, lingkungan pengembangan terpadu (IDE), kolaborasi kode sumber, dan referensi pengembang penting.",
+      "tools": [
+        {
+          "name": "Android Studio",
+          "url": "https://developer.android.com/studio",
+          "description": "Lingkungan pengembangan terpadu (IDE) resmi untuk pengembangan aplikasi Android."
+        },
+        {
+          "name": "Bitbucket",
+          "url": "https://bitbucket.org/",
+          "description": "Layanan hosting repositori Git dengan kolaborasi dan integrasi alur kerja pengembangan."
+        },
+        {
+          "name": "CodePen",
+          "url": "https://codepen.io/",
+          "description": "Taman bermain daring untuk membuat dan berbagi eksperimen kode front-end."
+        },
+        {
+          "name": "CodeSandbox",
+          "url": "https://codesandbox.io/",
+          "description": "Lingkungan komputasi awan kolaboratif untuk pembuatan prototipe dan pengembangan aplikasi."
+        },
+        {
+          "name": "DevDocs",
+          "url": "https://devdocs.io/",
+          "description": "Dokumentasi terpadu yang dapat dicari untuk berbagai bahasa pemrograman dan alat."
+        },
+        {
+          "name": "Eclipse IDE",
+          "url": "https://www.eclipse.org/ide/",
+          "description": "Lingkungan pengembangan terpadu (IDE) sumber terbuka yang dapat diperluas, digunakan untuk Java dan bahasa lainnya."
+        },
+        {
+          "name": "GitHub",
+          "url": "https://github.com/",
+          "description": "Platform untuk repositori Git, kolaborasi, pelacakan masalah, tinjauan kode, dan perangkat lunak sumber terbuka."
+        },
+        {
+          "name": "GitLab",
+          "url": "https://gitlab.com/",
+          "description": "Platform kontrol sumber dan DevSecOps dengan fitur perencanaan serta CI/CD."
+        },
+        {
+          "name": "IntelliJ IDEA",
+          "url": "https://www.jetbrains.com/idea/",
+          "description": "Lingkungan pengembangan terpadu (IDE) kaya fitur untuk Java dan pengembangan berbasis JVM lainnya."
+        },
+        {
+          "name": "JSFiddle",
+          "url": "https://jsfiddle.net/",
+          "description": "Penyunting daring cepat untuk menguji dan berbagi potongan HTML, CSS, dan JavaScript."
+        },
+        {
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org/",
+          "description": "Referensi tepercaya untuk standar web, HTML, CSS, JavaScript, dan antarmuka pemrograman aplikasi (API) peramban web."
+        },
+        {
+          "name": "npm",
+          "url": "https://www.npmjs.com/",
+          "description": "Registri paket dan ekosistem manajer paket untuk JavaScript."
+        },
+        {
+          "name": "PyCharm",
+          "url": "https://www.jetbrains.com/pycharm/",
+          "description": "Lingkungan pengembangan terpadu (IDE) Python dengan alat pengawakutuan (debugging), pengujian, dan navigasi proyek."
+        },
+        {
+          "name": "PyPI",
+          "url": "https://pypi.org/",
+          "description": "Indeks Paket Python untuk menemukan dan memasang paket Python."
+        },
+        {
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com/",
+          "description": "Komunitas tanya jawab untuk pemrograman dan pemecahan masalah teknis."
+        },
+        {
+          "name": "StackBlitz",
+          "url": "https://stackblitz.com/",
+          "description": "Lingkungan pengembangan berbasis peramban web untuk proyek web modern."
+        },
+        {
+          "name": "Visual Studio",
+          "url": "https://visualstudio.microsoft.com/",
+          "description": "Lingkungan pengembangan terpadu (IDE) berfitur lengkap untuk pengembangan aplikasi .NET, C++, dan Windows."
+        },
+        {
+          "name": "Visual Studio Code",
+          "url": "https://code.visualstudio.com/",
+          "description": "Penyunting kode populer yang dapat diperluas untuk pengembangan web, komputasi awan, dan perangkat lunak umum."
+        },
+        {
+          "name": "Xcode",
+          "url": "https://developer.apple.com/xcode/",
+          "description": "Lingkungan pengembangan terpadu (IDE) dari Apple untuk membangun aplikasi di berbagai platformnya."
+        }
+      ]
+    },
+    {
+      "id": "api-testing-qa",
+      "name": "Pengembangan Antarmuka Pemrograman Aplikasi (API), Pengujian & Penjaminan Mutu (QA)",
+      "icon": "🧪",
+      "description": "Klien antarmuka pemrograman aplikasi (API), pengujian otomatis, pengujian peramban web, dan pemeriksaan kualitas web.",
+      "tools": [
+        {
+          "name": "BrowserStack",
+          "url": "https://www.browserstack.com/",
+          "description": "Uji situs web dan aplikasi di seluruh peramban web, sistem operasi, dan perangkat nyata."
+        },
+        {
+          "name": "Cypress",
+          "url": "https://www.cypress.io/",
+          "description": "Kerangka kerja pengujian untuk end-to-end aplikasi web dan pengujian komponen."
+        },
+        {
+          "name": "Insomnia",
+          "url": "https://insomnia.rest/",
+          "description": "Klien antarmuka pemrograman aplikasi (API) untuk membangun dan menguji permintaan REST, GraphQL, dan lainnya."
+        },
+        {
+          "name": "Jest",
+          "url": "https://jestjs.io/",
+          "description": "Kerangka kerja pengujian JavaScript yang umum digunakan untuk pengujian unit dan integrasi."
+        },
+        {
+          "name": "JUnit",
+          "url": "https://junit.org/junit5/",
+          "description": "Kerangka kerja pengujian untuk aplikasi Java."
+        },
+        {
+          "name": "Lighthouse",
+          "url": "https://developer.chrome.com/docs/lighthouse/overview/",
+          "description": "Audit kinerja web, aksesibilitas, pengoptimalan mesin pencari (SEO), dan praktik terbaik."
+        },
+        {
+          "name": "PageSpeed Insights",
+          "url": "https://pagespeed.web.dev/",
+          "description": "Ukur kinerja halaman web dan dapatkan rekomendasi pengoptimalan."
+        },
+        {
+          "name": "Playwright",
+          "url": "https://playwright.dev/",
+          "description": "Otomatiskan pengujian end-to-end di seluruh mesin peramban web utama."
+        },
+        {
+          "name": "Postman",
+          "url": "https://www.postman.com/",
+          "description": "Desain, uji, dokumentasikan, dan berkolaborasi pada antarmuka pemrograman aplikasi (API)."
+        },
+        {
+          "name": "pytest",
+          "url": "https://pytest.org/",
+          "description": "Kerangka kerja pengujian Python yang fleksibel dengan ekosistem plugin yang kaya."
+        },
+        {
+          "name": "Selenium",
+          "url": "https://www.selenium.dev/",
+          "description": "Alat otomatisasi peramban web untuk menguji aplikasi web."
+        },
+        {
+          "name": "Stoplight",
+          "url": "https://stoplight.io/",
+          "description": "Desain, dokumentasikan, dan kelola antarmuka pemrograman aplikasi (API) menggunakan alur kerja yang mengutamakan API."
+        },
+        {
+          "name": "Swagger Editor",
+          "url": "https://editor.swagger.io/",
+          "description": "Buat dan validasi spesifikasi antarmuka pemrograman aplikasi (API) OpenAPI dalam penyunting berbasis peramban web."
+        },
+        {
+          "name": "Vitest",
+          "url": "https://vitest.dev/",
+          "description": "Kerangka kerja pengujian cepat yang dirancang untuk proyek JavaScript dan Vite modern."
+        },
+        {
+          "name": "WebPageTest",
+          "url": "https://www.webpagetest.org/",
+          "description": "Jalankan pengujian kinerja situs web terperinci dari berbagai lokasi dan perangkat."
+        }
+      ]
+    },
+    {
+      "id": "databases-data-engineering",
+      "name": "Basis Data & Rekayasa Data",
+      "icon": "💾",
+      "description": "Basis data, jalur pipa data (data pipelines), alat kueri, dan platform rekayasa data.",
+      "tools": [
+        {
+          "name": "Apache Airflow",
+          "url": "https://airflow.apache.org/",
+          "description": "Tulis, jadwalkan, dan pantau alur kerja data menggunakan Python."
+        },
+        {
+          "name": "Apache Spark",
+          "url": "https://spark.apache.org/",
+          "description": "Mesin terdistribusi untuk pemrosesan data dan analitik berskala besar."
+        },
+        {
+          "name": "Appwrite",
+          "url": "https://appwrite.io/",
+          "description": "Platform backend sumber terbuka untuk membangun aplikasi web, seluler, dan Flutter."
+        },
+        {
+          "name": "Databricks",
+          "url": "https://www.databricks.com/",
+          "description": "Platform untuk rekayasa data, analitik, dan alur kerja pembelajaran mesin."
+        },
+        {
+          "name": "DBeaver",
+          "url": "https://dbeaver.io/",
+          "description": "Klien basis data universal untuk menghubungkan dan mengelola banyak sistem basis data."
+        },
+        {
+          "name": "dbt",
+          "url": "https://www.getdbt.com/",
+          "description": "Transformasikan data dalam gudang data menggunakan SQL, pengujian, dan alur kerja dengan sistem kontrol versi."
+        },
+        {
+          "name": "Firebase",
+          "url": "https://firebase.google.com/",
+          "description": "Platform pengembangan aplikasi Google dengan layanan backend, autentikasi, analitik, dan hosting."
+        },
+        {
+          "name": "Google BigQuery",
+          "url": "https://cloud.google.com/bigquery",
+          "description": "Gudang data terkelola untuk analitik SQL berskala besar."
+        },
+        {
+          "name": "MongoDB",
+          "url": "https://www.mongodb.com/",
+          "description": "Basis data berorientasi dokumen untuk model data aplikasi yang fleksibel."
+        },
+        {
+          "name": "MySQL",
+          "url": "https://www.mysql.com/",
+          "description": "Basis data relasional yang banyak digunakan untuk situs web dan aplikasi."
+        },
+        {
+          "name": "Neon",
+          "url": "https://neon.tech/",
+          "description": "Platform PostgreSQL nirserver dengan percabangan dan komputasi yang dapat diskalakan."
+        },
+        {
+          "name": "PostgreSQL",
+          "url": "https://www.postgresql.org/",
+          "description": "Sistem basis data relasional sumber terbuka yang tangguh."
+        },
+        {
+          "name": "Redis",
+          "url": "https://redis.io/",
+          "description": "Penyimpanan data dalam memori yang digunakan untuk singgahan (caching), pesan, dan akses data yang cepat."
+        },
+        {
+          "name": "Snowflake",
+          "url": "https://www.snowflake.com/",
+          "description": "Platform data awan untuk pergudangan data, rekayasa, dan analitik."
+        },
+        {
+          "name": "SQLite",
+          "url": "https://www.sqlite.org/",
+          "description": "Basis data SQL ringan tanpa peladen (serverless) yang disematkan dalam aplikasi."
+        },
+        {
+          "name": "Supabase",
+          "url": "https://supabase.com/",
+          "description": "Platform pengembang yang dibangun dengan dasar PostgreSQL yang mencakup autentikasi, penyimpanan, dan antarmuka pemrograman aplikasi (API)."
+        }
+      ]
+    },
+    {
+      "id": "analytics-bi",
+      "name": "Analitik, Intelijen Bisnis (BI) & Wawasan Produk",
+      "icon": "📊",
+      "description": "Dasbor intelijen bisnis, analitik produk, dan pengukuran lalu lintas web.",
+      "tools": [
+        {
+          "name": "Amplitude",
+          "url": "https://amplitude.com/",
+          "description": "Analitik produk untuk memahami perilaku pengguna dan meningkatkan pengalaman digital."
+        },
+        {
+          "name": "Apache Superset",
+          "url": "https://superset.apache.org/",
+          "description": "Platform sumber terbuka untuk eksplorasi data dan intelijen bisnis."
+        },
+        {
+          "name": "Data Studio",
+          "url": "https://datastudio.google.com/",
+          "description": "Buat dan bagikan dasbor serta laporan; sebelumnya dikenal sebagai Looker Studio."
+        },
+        {
+          "name": "Google Analytics",
+          "url": "https://analytics.google.com/",
+          "description": "Ukur lalu lintas situs web dan aplikasi, interaksi, dan peristiwa konversi."
+        },
+        {
+          "name": "Jupyter",
+          "url": "https://jupyter.org/",
+          "description": "Lingkungan buku catatan interaktif untuk analisis data, visualisasi, dan komputasi ilmiah."
+        },
+        {
+          "name": "Matomo",
+          "url": "https://matomo.org/",
+          "description": "Platform analitik web dengan opsi penyebaran mandiri (self-hosted) dan komputasi awan."
+        },
+        {
+          "name": "Metabase",
+          "url": "https://www.metabase.com/",
+          "description": "Bangun dasbor dan jawab pertanyaan data dengan SQL atau pembuat kueri visual."
+        },
+        {
+          "name": "Microsoft Power BI",
+          "url": "https://powerbi.microsoft.com/",
+          "description": "Buat laporan bisnis dan dasbor interaktif dari data yang terhubung."
+        },
+        {
+          "name": "Mixpanel",
+          "url": "https://mixpanel.com/",
+          "description": "Analisis penggunaan produk, corong (funnels), retensi, dan perjalanan pengguna."
+        },
+        {
+          "name": "Plausible Analytics",
+          "url": "https://plausible.io/",
+          "description": "Layanan analitik web ringan yang dirancang dengan fokus pada privasi dan pelaporan sederhana."
+        },
+        {
+          "name": "PostHog",
+          "url": "https://posthog.com/",
+          "description": "Platform analitik produk sumber terbuka dengan fitur alihan fungsionalitas (feature flags) dan pemutaran ulang sesi (session replay)."
+        },
+        {
+          "name": "Redash",
+          "url": "https://redash.io/",
+          "description": "Kueri sumber data serta bagikan visualisasi dan dasbor."
+        },
+        {
+          "name": "Tableau",
+          "url": "https://www.tableau.com/",
+          "description": "Eksplorasi data dan komunikasikan wawasan melalui analitik visual interaktif."
+        }
+      ]
+    },
+    {
+      "id": "design-ui-ux",
+      "name": "Desain, Antarmuka Pengguna/Pengalaman Pengguna (UI/UX) & Pembuatan Diagram",
+      "icon": "🎨",
+      "description": "Desain grafis, desain antarmuka, pembuatan prototipe, ilustrasi, dan alat diagram.",
+      "tools": [
+        {
+          "name": "Adobe Express",
+          "url": "https://www.adobe.com/express/",
+          "description": "Buat grafis bermerek secara cepat, video pendek, dan konten media sosial."
+        },
+        {
+          "name": "Adobe Illustrator",
+          "url": "https://www.adobe.com/products/illustrator.html",
+          "description": "Penyunting grafis vektor untuk logo, ilustrasi, dan karya seni yang skalabel."
+        },
+        {
+          "name": "Adobe Photoshop",
+          "url": "https://www.adobe.com/products/photoshop.html",
+          "description": "Penyunting gambar profesional untuk manipulasi foto dan grafis raster."
+        },
+        {
+          "name": "Affinity",
+          "url": "https://affinity.studio/",
+          "description": "Alat kreatif profesional untuk penyuntingan foto, desain vektor, dan tata letak halaman."
+        },
+        {
+          "name": "Blender",
+          "url": "https://www.blender.org/",
+          "description": "Perangkat lunak sumber terbuka untuk pemodelan 3D, animasi, perenderan, dan efek visual."
+        },
+        {
+          "name": "Canva",
+          "url": "https://www.canva.com/",
+          "description": "Platform desain berbasis templat untuk presentasi, kiriman media sosial, dan aset pemasaran."
+        },
+        {
+          "name": "Cinema 4D",
+          "url": "https://www.maxon.net/en/cinema-4d",
+          "description": "Aplikasi pemodelan, animasi, dan grafis gerak 3D."
+        },
+        {
+          "name": "CorelDRAW",
+          "url": "https://www.coreldraw.com/",
+          "description": "Perangkat lunak ilustrasi vektor dan tata letak halaman yang sering digunakan untuk cetak dan pencitraan merek (branding)."
+        },
+        {
+          "name": "diagrams.net",
+          "url": "https://www.diagrams.net/",
+          "description": "Buat diagram alur, diagram arsitektur, dan peta proses."
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com/",
+          "description": "Kanvas bergaya sketsa yang ringan untuk diagram dan penjelasan visual."
+        },
+        {
+          "name": "FigJam",
+          "url": "https://www.figma.com/figjam/",
+          "description": "Papan tulis daring kolaboratif untuk curah gagasan dan perencanaan."
+        },
+        {
+          "name": "Figma",
+          "url": "https://www.figma.com/",
+          "description": "Desain antarmuka kolaboratif, pembuatan prototipe, dan alur kerja sistem desain."
+        },
+        {
+          "name": "Framer",
+          "url": "https://www.framer.com/",
+          "description": "Desain dan publikasikan situs web responsif dengan alat visual dan komponen interaktif."
+        },
+        {
+          "name": "GIMP",
+          "url": "https://www.gimp.org/",
+          "description": "Penyunting gambar sumber terbuka dan gratis untuk penajaman (retouching) foto dan karya grafis."
+        },
+        {
+          "name": "Inkscape",
+          "url": "https://inkscape.org/",
+          "description": "Penyunting grafis vektor gratis untuk ilustrasi dan desain SVG."
+        },
+        {
+          "name": "Krita",
+          "url": "https://krita.org/",
+          "description": "Aplikasi lukisan digital gratis untuk ilustrasi dan seni konsep."
+        },
+        {
+          "name": "Lucidchart",
+          "url": "https://www.lucidchart.com/",
+          "description": "Buat dan berkolaborasi pada diagram alur, peta proses, dan diagram teknis."
+        },
+        {
+          "name": "Marvel",
+          "url": "https://marvelapp.com/",
+          "description": "Alat desain produk digital untuk pembuatan kerangka kerja (wireframing), pembuatan prototipe, dan pengujian pengguna."
+        },
+        {
+          "name": "Penpot",
+          "url": "https://penpot.app/",
+          "description": "Platform desain dan pembuatan prototipe sumber terbuka untuk tim produk."
+        },
+        {
+          "name": "Photopea",
+          "url": "https://www.photopea.com/",
+          "description": "Penyunting gambar berbasis peramban web yang dapat membuka berkas PSD dan banyak format desain lainnya."
+        },
+        {
+          "name": "Sketch",
+          "url": "https://www.sketch.com/",
+          "description": "Alat desain dan pembuatan prototipe untuk produk digital, khususnya di macOS."
+        },
+        {
+          "name": "Whimsical",
+          "url": "https://whimsical.com/",
+          "description": "Buat kerangka kerja (wireframe), diagram alur, peta pikiran, dan dokumentasi ringan."
+        },
+        {
+          "name": "ZBrush",
+          "url": "https://www.maxon.net/en/zbrush",
+          "description": "Alat pahat digital untuk karakter dan objek 3D yang mendetail."
+        }
+      ]
+    },
+    {
+      "id": "video-audio-ai-media",
+      "name": "Video, Audio & Media Kecerdasan Buatan",
+      "icon": "🎬",
+      "description": "Penyuntingan video, perekaman layar, produksi audio, dan alat media generatif.",
+      "tools": [
+        {
+          "name": "Adobe After Effects",
+          "url": "https://www.adobe.com/products/aftereffects.html",
+          "description": "Buat grafis gerak, animasi, dan efek visual."
+        },
+        {
+          "name": "Adobe Firefly",
+          "url": "https://firefly.adobe.com/",
+          "description": "Alat kecerdasan buatan generatif untuk membuat dan menyunting gambar serta aset kreatif lainnya."
+        },
+        {
+          "name": "Adobe Premiere Pro",
+          "url": "https://www.adobe.com/products/premiere.html",
+          "description": "Penyunting video profesional untuk konten media sosial, film, dan proyek komersial."
+        },
+        {
+          "name": "Audacity",
+          "url": "https://www.audacityteam.org/",
+          "description": "Penyunting audio gratis dan perekam untuk siniar (podcasting) dan pembersihan suara."
+        },
+        {
+          "name": "CapCut",
+          "url": "https://www.capcut.com/",
+          "description": "Penyunting video populer untuk video media sosial berdurasi pendek dan alur kerja kreator."
+        },
+        {
+          "name": "Clipdrop",
+          "url": "https://clipdrop.co/",
+          "description": "Kumpulan alat gambar kecerdasan buatan untuk pembersihan, pencahayaan ulang, peningkatan skala resolusi, dan penghapusan latar belakang."
+        },
+        {
+          "name": "DaVinci Resolve",
+          "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+          "description": "Penyuntingan video profesional, penilaian warna (color grading), efek visual, dan pascaproduksi audio."
+        },
+        {
+          "name": "Descript",
+          "url": "https://www.descript.com/",
+          "description": "Sunting audio dan video melalui alat berbasis transkrip dan alur kerja kreator."
+        },
+        {
+          "name": "ElevenLabs",
+          "url": "https://elevenlabs.io/",
+          "description": "Pembuatan suara kecerdasan buatan, teks-ke-ucapan (text-to-speech), dan alat audio untuk kreator."
+        },
+        {
+          "name": "Final Cut Pro",
+          "url": "https://www.apple.com/final-cut-pro/",
+          "description": "Aplikasi penyuntingan video profesional dari Apple untuk Mac dan iPad."
+        },
+        {
+          "name": "Ideogram",
+          "url": "https://ideogram.ai/",
+          "description": "Generator gambar kecerdasan buatan yang sering digunakan untuk poster, tipografi, dan konsep grafis."
+        },
+        {
+          "name": "Leonardo AI",
+          "url": "https://leonardo.ai/",
+          "description": "Pembuatan gambar kecerdasan buatan dan alat aset kreatif untuk alur kerja desain dan seni permainan video."
+        },
+        {
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com/",
+          "description": "Alat pembuatan gambar kecerdasan buatan untuk seni konsep, ilustrasi, dan eksplorasi visual."
+        },
+        {
+          "name": "OBS Studio",
+          "url": "https://obsproject.com/",
+          "description": "Perangkat lunak gratis dan sumber terbuka untuk siaran langsung (live streaming) dan perekaman layar."
+        },
+        {
+          "name": "Pika",
+          "url": "https://pika.art/",
+          "description": "Alat pembuatan video kecerdasan buatan untuk menghasilkan dan mengubah klip pendek."
+        },
+        {
+          "name": "Remove.bg",
+          "url": "https://www.remove.bg/",
+          "description": "Secara otomatis menghapus latar belakang gambar untuk foto produk dan aset desain."
+        },
+        {
+          "name": "Runway",
+          "url": "https://runwayml.com/",
+          "description": "Alat bertenaga kecerdasan buatan untuk menghasilkan dan menyunting video dan media visual."
+        },
+        {
+          "name": "Suno",
+          "url": "https://suno.com/",
+          "description": "Hasilkan lagu dan musik dari perintah teks dan arahan kreatif."
+        },
+        {
+          "name": "VEED",
+          "url": "https://www.veed.io/",
+          "description": "Penyunting video berbasis peramban web dengan teks takarir (captions) dan alat konten media sosial."
+        }
+      ]
+    },
+    {
+      "id": "creative-assets-fonts",
+      "name": "Aset Kreatif, Ikon & Fon",
+      "icon": "🔤",
+      "description": "Aset visual yang dapat digunakan kembali, media stok, pustaka ikon, dan rupa huruf.",
+      "tools": [
+        {
+          "name": "Envato Elements",
+          "url": "https://elements.envato.com/",
+          "description": "Pustaka langganan templat desain, media stok, fon, dan aset kreatif."
+        },
+        {
+          "name": "Font Awesome",
+          "url": "https://fontawesome.com/",
+          "description": "Pustaka ikon yang mapan untuk antarmuka web dan aplikasi."
+        },
+        {
+          "name": "Freepik",
+          "url": "https://www.freepik.com/",
+          "description": "Temukan vektor stok, foto, templat, ikon, dan aset desain lainnya."
+        },
+        {
+          "name": "FreeSound",
+          "url": "https://freesound.org/",
+          "description": "Pustaka efek suara dan rekaman audio komunitas dengan berbagai lisensi."
+        },
+        {
+          "name": "Google Fonts",
+          "url": "https://fonts.google.com/",
+          "description": "Telusuri dan gunakan katalog fon web yang besar."
+        },
+        {
+          "name": "Heroicons",
+          "url": "https://heroicons.com/",
+          "description": "Kumpulan ikon SVG yang dirancang untuk antarmuka web modern."
+        },
+        {
+          "name": "Icons8",
+          "url": "https://icons8.com/",
+          "description": "Ikon, ilustrasi, foto, dan aset lainnya untuk produk digital."
+        },
+        {
+          "name": "LottieFiles",
+          "url": "https://lottiefiles.com/",
+          "description": "Temukan, pratinjau, dan kelola animasi ringan untuk pengalaman digital."
+        },
+        {
+          "name": "Lucide",
+          "url": "https://lucide.dev/",
+          "description": "Kumpulan ikon sumber terbuka yang konsisten untuk antarmuka web dan aplikasi."
+        },
+        {
+          "name": "Openverse",
+          "url": "https://openverse.org/",
+          "description": "Cari media berlisensi terbuka dan domain publik di seluruh web."
+        },
+        {
+          "name": "Pexels",
+          "url": "https://www.pexels.com/",
+          "description": "Foto dan video stok gratis yang disumbangkan oleh komunitas kreator."
+        },
+        {
+          "name": "Pixabay",
+          "url": "https://pixabay.com/",
+          "description": "Pustaka besar yang berisi gambar stok, ilustrasi, video, dan audio."
+        },
+        {
+          "name": "The Noun Project",
+          "url": "https://thenounproject.com/",
+          "description": "Pustaka simbol dan ikon yang dapat dicari untuk komunikasi dan desain."
+        },
+        {
+          "name": "Unsplash",
+          "url": "https://unsplash.com/",
+          "description": "Pustaka fotografi untuk situs web, presentasi, dan proyek kreatif."
+        }
+      ]
+    },
+    {
+      "id": "writing-translation-publishing",
+      "name": "Menulis, Terjemahan & Penerbitan",
+      "icon": "📝",
+      "description": "Bantuan penulisan, terjemahan, pencatatan, dokumentasi, dan platform penerbitan.",
+      "tools": [
+        {
+          "name": "Bear",
+          "url": "https://bear.app/",
+          "description": "Aplikasi pencatatan dan penulisan Markdown minimalis untuk platform Apple."
+        },
+        {
+          "name": "DeepL",
+          "url": "https://www.deepl.com/",
+          "description": "Terjemahan mesin dan bantuan penulisan untuk berbagai bahasa."
+        },
+        {
+          "name": "Evernote",
+          "url": "https://evernote.com/",
+          "description": "Kumpulkan catatan, dokumen, dan kliping web dalam ruang kerja yang dapat dicari."
+        },
+        {
+          "name": "Ghost",
+          "url": "https://ghost.org/",
+          "description": "Platform penerbitan untuk situs web independen, nawala, dan keanggotaan."
+        },
+        {
+          "name": "Google Docs",
+          "url": "https://docs.google.com/",
+          "description": "Pengolah kata komputasi awan untuk menulis dan berkolaborasi pada dokumen."
+        },
+        {
+          "name": "Grammarly",
+          "url": "https://www.grammarly.com/",
+          "description": "Saran penulisan untuk tata bahasa, kejelasan, nada, dan keterbacaan."
+        },
+        {
+          "name": "Hemingway Editor",
+          "url": "https://hemingwayapp.com/",
+          "description": "Menyoroti tulisan yang mungkin sulit dibaca dan membantu menyederhanakan prosa."
+        },
+        {
+          "name": "Joplin",
+          "url": "https://joplinapp.org/",
+          "description": "Aplikasi pencatatan dan daftar tugas sumber terbuka dengan opsi sinkronisasi."
+        },
+        {
+          "name": "LanguageTool",
+          "url": "https://languagetool.org/",
+          "description": "Pemeriksa tata bahasa dan gaya penulisan yang mendukung berbagai bahasa."
+        },
+        {
+          "name": "Medium",
+          "url": "https://medium.com/",
+          "description": "Platform penerbitan daring untuk artikel dan esai."
+        },
+        {
+          "name": "Microsoft Word",
+          "url": "https://www.microsoft.com/microsoft-365/word",
+          "description": "Pengolah kata yang banyak digunakan untuk dokumen dan tulisan panjang."
+        },
+        {
+          "name": "Obsidian",
+          "url": "https://obsidian.md/",
+          "description": "Basis pengetahuan lokal-pertama yang dibangun di sekitar catatan Markdown yang saling terhubung."
+        },
+        {
+          "name": "QuillBot",
+          "url": "https://quillbot.com/",
+          "description": "Alat menulis untuk parafrase, meringkas, dan pemeriksaan tata bahasa."
+        },
+        {
+          "name": "Scrivener",
+          "url": "https://www.literatureandlatte.com/scrivener/overview",
+          "description": "Lingkungan penulisan bentuk panjang untuk mengatur naskah yang kompleks."
+        },
+        {
+          "name": "Substack",
+          "url": "https://substack.com/",
+          "description": "Publikasikan nawala dan bangun publikasi yang didukung oleh pembaca."
+        },
+        {
+          "name": "WordPress",
+          "url": "https://wordpress.org/",
+          "description": "Sistem manajemen konten sumber terbuka untuk situs web dan penerbitan."
+        },
+        {
+          "name": "Zettlr",
+          "url": "https://www.zettlr.com/",
+          "description": "Penyunting Markdown sumber terbuka untuk peneliti dan penulis tulisan panjang."
+        }
+      ]
+    },
+    {
+      "id": "productivity-project-management",
+      "name": "Produktivitas & Manajemen Proyek",
+      "icon": "✅",
+      "description": "Perencanaan tugas, pelacakan proyek tim, kalender, pelacakan waktu, dan pengorganisasian pribadi.",
+      "tools": [
+        {
+          "name": "Asana",
+          "url": "https://asana.com/",
+          "description": "Rencanakan proyek, tetapkan tugas, dan lacak pekerjaan di seluruh tim."
+        },
+        {
+          "name": "Basecamp",
+          "url": "https://basecamp.com/",
+          "description": "Koordinasikan proyek dengan papan pesan, daftar tugas, jadwal, dan berkas."
+        },
+        {
+          "name": "Calendly",
+          "url": "https://calendly.com/",
+          "description": "Biarkan orang memesan jadwal rapat berdasarkan ketersediaan Anda dan aturan penjadwalan."
+        },
+        {
+          "name": "ClickUp",
+          "url": "https://clickup.com/",
+          "description": "Ruang kerja yang dapat dikonfigurasi untuk tugas, dokumen, sasaran, dan alur kerja proyek."
+        },
+        {
+          "name": "Clockify",
+          "url": "https://clockify.me/",
+          "description": "Lacak jam kerja dan tinjau waktu yang dihabiskan untuk proyek."
+        },
+        {
+          "name": "Google Calendar",
+          "url": "https://calendar.google.com/",
+          "description": "Jadwalkan acara, kelola kalender, dan koordinasikan ketersediaan."
+        },
+        {
+          "name": "Jira",
+          "url": "https://www.atlassian.com/software/jira",
+          "description": "Lacak masalah, simpanan pekerjaan (backlogs), dan proyek perangkat lunak tangkas (agile)."
+        },
+        {
+          "name": "Linear",
+          "url": "https://linear.app/",
+          "description": "Rencanakan proyek perangkat lunak dan kelola masalah dengan alur kerja yang efisien."
+        },
+        {
+          "name": "Microsoft Planner",
+          "url": "https://www.microsoft.com/microsoft-365/planner/microsoft-planner",
+          "description": "Atur tugas dan rencana tim dalam ekosistem Microsoft 365."
+        },
+        {
+          "name": "Monday.com",
+          "url": "https://monday.com/",
+          "description": "Kelola proyek dan alur kerja bisnis menggunakan papan (boards) yang dapat dikonfigurasi."
+        },
+        {
+          "name": "Notion",
+          "url": "https://www.notion.so/",
+          "description": "Gabungkan catatan, dokumen, basis data, wiki, dan ruang kerja proyek."
+        },
+        {
+          "name": "Smartsheet",
+          "url": "https://www.smartsheet.com/",
+          "description": "Kelola proyek dan proses dengan manajemen pekerjaan bergaya lembar lajur (spreadsheet)."
+        },
+        {
+          "name": "Taiga",
+          "url": "https://taiga.io/",
+          "description": "Alat manajemen proyek sumber terbuka untuk tim tangkas (agile)."
+        },
+        {
+          "name": "Todoist",
+          "url": "https://todoist.com/",
+          "description": "Atur tugas pribadi dan tim dengan proyek, label, dan pengingat."
+        },
+        {
+          "name": "Toggl Track",
+          "url": "https://toggl.com/track/",
+          "description": "Alat pelacak waktu untuk memahami bagaimana waktu dihabiskan dalam bekerja."
+        },
+        {
+          "name": "Trello",
+          "url": "https://trello.com/",
+          "description": "Kelola pekerjaan secara visual dengan papan, daftar, dan kartu."
+        }
+      ]
+    },
+    {
+      "id": "communication-cloud-docs",
+      "name": "Komunikasi, Rapat & Dokumen Komputasi Awan",
+      "icon": "💬",
+      "description": "Pesan tim, rapat video, berkas bersama, dan rangkaian produk produktivitas kantor.",
+      "tools": [
+        {
+          "name": "Discord",
+          "url": "https://discord.com/",
+          "description": "Komunitas suara, video, dan teks untuk tim, kreator, dan kelompok minat."
+        },
+        {
+          "name": "Dropbox",
+          "url": "https://www.dropbox.com/",
+          "description": "Penyimpanan berkas komputasi awan, berbagi, dan sinkronisasi lintas perangkat."
+        },
+        {
+          "name": "Google Drive",
+          "url": "https://drive.google.com/",
+          "description": "Simpan, atur, dan bagikan berkas dengan fitur kolaborasi komputasi awan."
+        },
+        {
+          "name": "Google Meet",
+          "url": "https://meet.google.com/",
+          "description": "Rapat video terintegrasi dengan akun Google dan Workspace."
+        },
+        {
+          "name": "Google Workspace",
+          "url": "https://workspace.google.com/",
+          "description": "Rangkaian produk surat elektronik, dokumen, lembar lajur (spreadsheet), penyimpanan, dan alat kolaborasi."
+        },
+        {
+          "name": "Lark",
+          "url": "https://www.larksuite.com/",
+          "description": "Rangkaian kolaborasi yang menggabungkan obrolan, dokumen, kalender, dan rapat."
+        },
+        {
+          "name": "Loom",
+          "url": "https://www.loom.com/",
+          "description": "Rekam dan bagikan video pendek layar dan kamera untuk komunikasi asinkron."
+        },
+        {
+          "name": "Mattermost",
+          "url": "https://mattermost.com/",
+          "description": "Platform pesan tim dengan opsi penyebaran mandiri (self-hosting) untuk tim teknis."
+        },
+        {
+          "name": "Microsoft 365",
+          "url": "https://www.microsoft.com/microsoft-365/",
+          "description": "Aplikasi perkantoran, penyimpanan komputasi awan, surat elektronik, dan layanan kolaborasi."
+        },
+        {
+          "name": "Microsoft OneDrive",
+          "url": "https://www.microsoft.com/microsoft-365/onedrive/online-cloud-storage",
+          "description": "Penyimpanan komputasi awan terintegrasi dengan Windows dan aplikasi Microsoft 365."
+        },
+        {
+          "name": "Microsoft Teams",
+          "url": "https://www.microsoft.com/microsoft-teams/",
+          "description": "Obrolan tim, rapat, panggilan telepon, dan kolaborasi dalam alur kerja Microsoft."
+        },
+        {
+          "name": "Proton Drive",
+          "url": "https://proton.me/drive",
+          "description": "Penyimpanan berkas komputasi awan dengan fitur enkripsi ujung-ke-ujung."
+        },
+        {
+          "name": "Slack",
+          "url": "https://slack.com/",
+          "description": "Pesan tim dengan saluran, pencarian, dan integrasi aplikasi."
+        },
+        {
+          "name": "Zoom",
+          "url": "https://zoom.us/",
+          "description": "Rapat video, seminar web (webinars), dan kolaborasi daring."
+        }
+      ]
+    },
+    {
+      "id": "cloud-hosting-deployment",
+      "name": "Komputasi Awan, Hos & Penerapan (Deployment)",
+      "icon": "🌎",
+      "description": "Infrastruktur komputasi awan, hos aplikasi, penerapan ujung depan (frontend deployment), dan platform terkelola.",
+      "tools": [
+        {
+          "name": "Akamai Cloud",
+          "url": "https://www.akamai.com/cloud/pricing",
+          "description": "Layanan komputasi awan dan jaringan yang sebelumnya dikenal luas sebagai Linode."
+        },
+        {
+          "name": "Amazon Web Services",
+          "url": "https://aws.amazon.com/",
+          "description": "Platform komputasi awan yang luas untuk komputasi, penyimpanan, basis data, jaringan, dan lainnya."
+        },
+        {
+          "name": "Cloudflare",
+          "url": "https://www.cloudflare.com/",
+          "description": "Jaringan, sistem penamaan domain (DNS), jaringan pengiriman konten (CDN), keamanan aplikasi, dan layanan platform pengembang."
+        },
+        {
+          "name": "DigitalOcean",
+          "url": "https://www.digitalocean.com/",
+          "description": "Infrastruktur komputasi awan dan layanan terkelola yang ditujukan untuk pengembang dan tim kecil."
+        },
+        {
+          "name": "Firebase Hosting",
+          "url": "https://firebase.google.com/docs/hosting",
+          "description": "Terapkan aplikasi web dan konten statis dengan perkakas Firebase."
+        },
+        {
+          "name": "Fly.io",
+          "url": "https://fly.io/",
+          "description": "Jalankan aplikasi di dekat dengan pengguna pada infrastruktur yang terdistribusi secara global."
+        },
+        {
+          "name": "GitHub Pages",
+          "url": "https://pages.github.com/",
+          "description": "Hos situs web statis langsung dari repositori GitHub."
+        },
+        {
+          "name": "Google Cloud",
+          "url": "https://cloud.google.com/",
+          "description": "Platform komputasi awan dari Google untuk infrastruktur, data, kecerdasan buatan, dan layanan aplikasi."
+        },
+        {
+          "name": "Heroku",
+          "url": "https://www.heroku.com/",
+          "description": "Platform aplikasi terkelola yang menyederhanakan penerapan dan operasi."
+        },
+        {
+          "name": "Microsoft Azure",
+          "url": "https://azure.microsoft.com/",
+          "description": "Platform komputasi awan dari Microsoft untuk hos aplikasi, data, kecerdasan buatan, dan infrastruktur."
+        },
+        {
+          "name": "Netlify",
+          "url": "https://www.netlify.com/",
+          "description": "Bangun, terapkan, dan jadikan hos situs web modern dengan penerapan berkelanjutan (CI/CD)."
+        },
+        {
+          "name": "Railway",
+          "url": "https://railway.com/",
+          "description": "Terapkan aplikasi dan basis data melalui platform komputasi awan yang berfokus pada pengembang."
+        },
+        {
+          "name": "Render",
+          "url": "https://render.com/",
+          "description": "Terapkan layanan web, situs web statis, basis data, dan pekerja latar belakang (background workers)."
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com/",
+          "description": "Terapkan aplikasi ujung depan (frontend) dan fungsi tanpa peladen dengan alur kerja pratinjau."
+        }
+      ]
+    },
+    {
+      "id": "devops-monitoring",
+      "name": "DevOps, Kontainer & Pemantauan",
+      "icon": "🐳",
+      "description": "Jalur pipa pembangunan perangkat lunak, otomatisasi infrastruktur, platform kontainer, observabilitas, dan pemantauan waktu operasional (uptime).",
+      "tools": [
+        {
+          "name": "Ansible",
+          "url": "https://www.ansible.com/",
+          "description": "Otomatiskan konfigurasi infrastruktur, penerapan, dan tugas teknologi informasi rutin."
+        },
+        {
+          "name": "Better Stack",
+          "url": "https://betterstack.com/",
+          "description": "Pemantauan waktu operasional (uptime), respons insiden, log, dan halaman status."
+        },
+        {
+          "name": "Datadog",
+          "url": "https://www.datadoghq.com/",
+          "description": "Pantau infrastruktur, aplikasi, log, dan jejak terdistribusi (distributed traces)."
+        },
+        {
+          "name": "Docker",
+          "url": "https://www.docker.com/",
+          "description": "Bangun, kemas, dan jalankan aplikasi dalam kontainer."
+        },
+        {
+          "name": "Elastic Stack",
+          "url": "https://www.elastic.co/elastic-stack",
+          "description": "Kumpulkan, cari, analisis, dan visualisasikan log serta data operasional."
+        },
+        {
+          "name": "GitHub Actions",
+          "url": "https://github.com/features/actions",
+          "description": "Otomatiskan alur kerja pembangunan (build), pengujian, dan penerapan perangkat lunak dari repositori."
+        },
+        {
+          "name": "Grafana",
+          "url": "https://grafana.com/",
+          "description": "Visualisasikan metrik dan log melalui dasbor dan integrasi observabilitas."
+        },
+        {
+          "name": "Jenkins",
+          "url": "https://www.jenkins.io/",
+          "description": "Peladen otomatisasi yang dapat diperluas, yang umumnya digunakan untuk jalur pipa CI/CD."
+        },
+        {
+          "name": "Kubernetes",
+          "url": "https://kubernetes.io/",
+          "description": "Otomatiskan penerapan, penskalaan, dan pengelolaan aplikasi dalam kontainer."
+        },
+        {
+          "name": "New Relic",
+          "url": "https://newrelic.com/",
+          "description": "Amati kinerja aplikasi, infrastruktur, dan telemetri."
+        },
+        {
+          "name": "PagerDuty",
+          "url": "https://www.pagerduty.com/",
+          "description": "Koordinasikan jadwal panggilan, peringatan, dan respons insiden."
+        },
+        {
+          "name": "Prometheus",
+          "url": "https://prometheus.io/",
+          "description": "Kumpulkan dan buat kueri metrik deret waktu untuk memantau sistem dan aplikasi."
+        },
+        {
+          "name": "Sentry",
+          "url": "https://sentry.io/",
+          "description": "Temukan dan diagnosis kesalahan aplikasi serta masalah kinerja."
+        },
+        {
+          "name": "Terraform",
+          "url": "https://www.terraform.io/",
+          "description": "Sediakan dan kelola infrastruktur menggunakan konfigurasi deklaratif."
+        },
+        {
+          "name": "Uptime Kuma",
+          "url": "https://uptime.kuma.pet/",
+          "description": "Alat pemantauan status dan waktu operasional (uptime) mandiri (self-hosted)."
+        }
+      ]
+    },
+    {
+      "id": "security-privacy",
+      "name": "Keamanan & Privasi",
+      "icon": "🔒",
+      "description": "Manajemen kata sandi, penemuan kerentanan, pengujian keamanan web, dan alat privasi.",
+      "tools": [
+        {
+          "name": "1Password",
+          "url": "https://1password.com/",
+          "description": "Manajer kata sandi dan rahasia untuk individu, keluarga, dan tim."
+        },
+        {
+          "name": "Bitwarden",
+          "url": "https://bitwarden.com/",
+          "description": "Manajer kata sandi untuk menyimpan dan berbagi kredensial secara aman."
+        },
+        {
+          "name": "Burp Suite",
+          "url": "https://portswigger.net/burp",
+          "description": "Kumpulan alat untuk pengujian keamanan aplikasi web resmi."
+        },
+        {
+          "name": "Dependabot",
+          "url": "https://github.com/features/security",
+          "description": "Deteksi kerentanan kebergantungan (dependencies) dan bantu menjaga paket perangkat lunak agar tetap mutakhir."
+        },
+        {
+          "name": "Have I Been Pwned",
+          "url": "https://haveibeenpwned.com/",
+          "description": "Periksa apakah alamat surat elektronik muncul dalam kebocoran data yang diketahui."
+        },
+        {
+          "name": "Let's Encrypt",
+          "url": "https://letsencrypt.org/",
+          "description": "Otoritas sertifikat nirlaba yang menyediakan sertifikat TLS secara gratis."
+        },
+        {
+          "name": "OWASP ZAP",
+          "url": "https://www.zaproxy.org/",
+          "description": "Alat sumber terbuka untuk menguji keamanan aplikasi web."
+        },
+        {
+          "name": "Proton Pass",
+          "url": "https://proton.me/pass",
+          "description": "Manajer kata sandi terenkripsi dengan alias dan fitur berbagi yang aman."
+        },
+        {
+          "name": "Snyk",
+          "url": "https://snyk.io/",
+          "description": "Temukan dan perbaiki kerentanan dalam kode, kebergantungan (dependencies), kontainer, dan konfigurasi komputasi awan."
+        },
+        {
+          "name": "VirusTotal",
+          "url": "https://www.virustotal.com/",
+          "description": "Periksa berkas, URL, domain, dan alamat IP terhadap berbagai mesin pemeriksa keamanan."
+        }
+      ]
+    },
+    {
+      "id": "marketing-seo-social",
+      "name": "Pemasaran, Pengoptimalan Mesin Pencari (SEO) & Media Sosial",
+      "icon": "📣",
+      "description": "Pengoptimalan pencarian, periklanan, penerbitan di media sosial, kampanye surel, dan pertumbuhan audiens.",
+      "tools": [
+        {
+          "name": "Ahrefs",
+          "url": "https://ahrefs.com/",
+          "description": "Riset kata kunci, tautan balik (backlinks), pesaing, dan performa SEO situs web."
+        },
+        {
+          "name": "Brevo",
+          "url": "https://www.brevo.com/",
+          "description": "Jalankan kampanye surel dan SMS dengan otomatisasi pemasaran dan pesan pelanggan."
+        },
+        {
+          "name": "Buffer",
+          "url": "https://buffer.com/",
+          "description": "Rencanakan, jadwalkan, dan analisis konten media sosial."
+        },
+        {
+          "name": "Google Ads",
+          "url": "https://ads.google.com/",
+          "description": "Buat dan kelola kampanye iklan di seluruh jaringan periklanan Google."
+        },
+        {
+          "name": "Google Search Console",
+          "url": "https://search.google.com/search-console/about",
+          "description": "Pantau bagaimana situs web muncul dan berkinerja di Google Search."
+        },
+        {
+          "name": "Hootsuite",
+          "url": "https://www.hootsuite.com/",
+          "description": "Kelola penerbitan di media sosial, pemantauan, dan analitik di berbagai saluran."
+        },
+        {
+          "name": "Kit",
+          "url": "https://kit.com/",
+          "description": "Platform pemasaran surat elektronik dan otomatisasi untuk kreator, nawala, dan pertumbuhan audiens."
+        },
+        {
+          "name": "Later",
+          "url": "https://later.com/",
+          "description": "Rencanakan dan jadwalkan konten sosial visual dan kampanye kreator."
+        },
+        {
+          "name": "Mailchimp",
+          "url": "https://mailchimp.com/",
+          "description": "Buat kampanye surat elektronik, segmen audiens, dan otomatisasi pemasaran."
+        },
+        {
+          "name": "MailerLite",
+          "url": "https://www.mailerlite.com/",
+          "description": "Bangun nawala surel, halaman landas (landing pages), dan kampanye otomatis."
+        },
+        {
+          "name": "Meta Ads Manager",
+          "url": "https://www.facebook.com/business/tools/ads-manager",
+          "description": "Buat, kelola, dan ukur kampanye iklan di seluruh platform Meta."
+        },
+        {
+          "name": "Meta Business Suite",
+          "url": "https://business.facebook.com/",
+          "description": "Kelola konten, pesan, dan wawasan Facebook dan Instagram."
+        },
+        {
+          "name": "Metricool",
+          "url": "https://metricool.com/",
+          "description": "Jadwalkan konten sosial dan tinjau analitik performa lintas platform."
+        },
+        {
+          "name": "Moz",
+          "url": "https://moz.com/",
+          "description": "Alat SEO dan sumber belajar untuk riset kata kunci serta perbaikan situs web."
+        },
+        {
+          "name": "Screaming Frog SEO Spider",
+          "url": "https://www.screamingfrog.co.uk/seo-spider/",
+          "description": "Rayapi (crawl) situs web untuk mengaudit SEO teknis dan mengidentifikasi masalah situs web."
+        },
+        {
+          "name": "Semrush",
+          "url": "https://www.semrush.com/",
+          "description": "Perkakas pemasaran digital untuk SEO, riset pesaing, konten, dan periklanan."
+        },
+        {
+          "name": "Sprout Social",
+          "url": "https://sproutsocial.com/",
+          "description": "Kelola penerbitan di media sosial, keterlibatan pelanggan, dan pelaporan."
+        },
+        {
+          "name": "TikTok Studio",
+          "url": "https://www.tiktok.com/tiktokstudio",
+          "description": "Kelola konten TikTok dan tinjau analitik kreator."
+        },
+        {
+          "name": "YouTube Studio",
+          "url": "https://studio.youtube.com/",
+          "description": "Unggah, kelola, dan analisis video untuk saluran YouTube."
+        }
+      ]
+    },
+    {
+      "id": "automation-no-code-web-builders",
+      "name": "Otomatisasi, Tanpa Kode & Pembuat Situs Web",
+      "icon": "🔗",
+      "description": "Hubungkan aplikasi, otomatiskan alur kerja, dan bangun situs web atau alat internal dengan sedikit atau tanpa kode.",
+      "tools": [
+        {
+          "name": "Bubble",
+          "url": "https://bubble.io/",
+          "description": "Bangun aplikasi web interaktif dengan penyunting visual tanpa kode."
+        },
+        {
+          "name": "Glide",
+          "url": "https://www.glideapps.com/",
+          "description": "Buat aplikasi bisnis dari sumber data menggunakan pembuat visual."
+        },
+        {
+          "name": "IFTTT",
+          "url": "https://ifttt.com/",
+          "description": "Buat otomatisasi sederhana antara aplikasi, perangkat pintar, dan layanan daring."
+        },
+        {
+          "name": "Make",
+          "url": "https://www.make.com/",
+          "description": "Bangun otomatisasi visual yang menghubungkan aplikasi, antarmuka pemrograman aplikasi (API), dan proses bisnis."
+        },
+        {
+          "name": "Microsoft Power Automate",
+          "url": "https://www.microsoft.com/power-platform/products/power-automate",
+          "description": "Otomatiskan proses bisnis di seluruh layanan Microsoft dan pihak ketiga yang didukung."
+        },
+        {
+          "name": "n8n",
+          "url": "https://n8n.io/",
+          "description": "Platform otomatisasi alur kerja dengan opsi pembangunan visual dan penyebaran mandiri (self-hosting)."
+        },
+        {
+          "name": "Softr",
+          "url": "https://www.softr.io/",
+          "description": "Bangun portal klien dan alat internal dari lembar lajur (spreadsheet) dan basis data."
+        },
+        {
+          "name": "Squarespace",
+          "url": "https://www.squarespace.com/",
+          "description": "Buat situs web, portofolio, dan toko daring dengan hos terkelola."
+        },
+        {
+          "name": "Webflow",
+          "url": "https://webflow.com/",
+          "description": "Desain, bangun, dan publikasikan situs web responsif secara visual."
+        },
+        {
+          "name": "Wix",
+          "url": "https://www.wix.com/",
+          "description": "Bangun dan kelola situs web dengan templat dan alat penyuntingan visual."
+        },
+        {
+          "name": "Zapier",
+          "url": "https://zapier.com/",
+          "description": "Hubungkan aplikasi web dan otomatiskan alur kerja yang berulang tanpa perlu membangun integrasi khusus."
+        }
+      ]
+    },
+    {
+      "id": "business-crm-ecommerce",
+      "name": "Bisnis, Manajemen Hubungan Pelanggan (CRM) & Perdagangan Elektronik (E-commerce)",
+      "icon": "💼",
+      "description": "Manajemen hubungan pelanggan, penjualan daring, pembayaran, dan keuangan usaha kecil.",
+      "tools": [
+        {
+          "name": "Gumroad",
+          "url": "https://gumroad.com/",
+          "description": "Jual produk digital, keanggotaan, dan penawaran dari kreator secara daring."
+        },
+        {
+          "name": "HubSpot",
+          "url": "https://www.hubspot.com/",
+          "description": "Platform Manajemen Hubungan Pelanggan (CRM) untuk manajemen kontak, penjualan, pemasaran, dan layanan pelanggan."
+        },
+        {
+          "name": "Lemon Squeezy",
+          "url": "https://www.lemonsqueezy.com/",
+          "description": "Jual produk digital dan kelola pembayaran (checkout), langganan, dan alur kerja terkait pajak."
+        },
+        {
+          "name": "PayPal",
+          "url": "https://www.paypal.com/",
+          "description": "Kirim dan terima pembayaran daring untuk transaksi pribadi dan bisnis."
+        },
+        {
+          "name": "Pipedrive",
+          "url": "https://www.pipedrive.com/",
+          "description": "Manajemen Hubungan Pelanggan (CRM) penjualan yang difokuskan pada pengelolaan prospek, kesepakatan, dan jalur pipa (pipeline)."
+        },
+        {
+          "name": "QuickBooks",
+          "url": "https://quickbooks.intuit.com/",
+          "description": "Perangkat lunak akuntansi dan pembukuan untuk usaha kecil."
+        },
+        {
+          "name": "Salesforce",
+          "url": "https://www.salesforce.com/",
+          "description": "Platform manajemen hubungan pelanggan untuk penjualan, layanan, dan pemasaran."
+        },
+        {
+          "name": "Shopify",
+          "url": "https://www.shopify.com/",
+          "description": "Buat dan kelola toko daring, katalog, dan operasi perdagangan."
+        },
+        {
+          "name": "Stripe",
+          "url": "https://stripe.com/",
+          "description": "Pemrosesan pembayaran dan infrastruktur keuangan untuk bisnis daring."
+        },
+        {
+          "name": "Wave",
+          "url": "https://www.waveapps.com/",
+          "description": "Alat pembuatan faktur dan akuntansi untuk usaha kecil."
+        },
+        {
+          "name": "WooCommerce",
+          "url": "https://woocommerce.com/",
+          "description": "Platform perdagangan elektronik yang menambahkan fungsi toko daring ke WordPress."
+        },
+        {
+          "name": "Xero",
+          "url": "https://www.xero.com/",
+          "description": "Perangkat lunak akuntansi berbasis komputasi awan untuk faktur, pengeluaran, dan pelaporan keuangan."
+        }
+      ]
+    },
+    {
+      "id": "learning-developer-resources",
+      "name": "Pembelajaran & Sumber Daya Pengembang",
+      "icon": "📚",
+      "description": "Kursus daring, latihan pemrograman, tutorial, dan jalur pembelajaran terstruktur.",
+      "tools": [
+        {
+          "name": "Codecademy",
+          "url": "https://www.codecademy.com/",
+          "description": "Kursus pemrograman dan teknologi interaktif."
+        },
+        {
+          "name": "Coursera",
+          "url": "https://www.coursera.org/",
+          "description": "Kursus daring dan sertifikat profesional dari universitas dan organisasi."
+        },
+        {
+          "name": "edX",
+          "url": "https://www.edx.org/",
+          "description": "Kursus dan program daring dari universitas dan institusi."
+        },
+        {
+          "name": "Exercism",
+          "url": "https://exercism.org/",
+          "description": "Berlatih bahasa pemrograman dengan latihan dan pendampingan (mentoring)."
+        },
+        {
+          "name": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org/",
+          "description": "Pelajaran pengodean dan proyek gratis yang mencakup pengembangan web dan keterampilan teknis lainnya."
+        },
+        {
+          "name": "Frontend Masters",
+          "url": "https://frontendmasters.com/",
+          "description": "Pelatihan mendalam untuk pengembang web ujung depan (frontend) dan full-stack."
+        },
+        {
+          "name": "HackerRank",
+          "url": "https://www.hackerrank.com/",
+          "description": "Latih masalah pemrograman dan ukur keterampilan teknis."
+        },
+        {
+          "name": "Kaggle",
+          "url": "https://www.kaggle.com/",
+          "description": "Temukan set data, jalankan buku catatan, dan berpartisipasi dalam kompetisi pembelajaran mesin."
+        },
+        {
+          "name": "Khan Academy",
+          "url": "https://www.khanacademy.org/",
+          "description": "Pelajaran dan latihan gratis di bidang komputasi, matematika, sains, dan mata pelajaran lainnya."
+        },
+        {
+          "name": "LeetCode",
+          "url": "https://leetcode.com/",
+          "description": "Berlatih pengodean dan algoritme melalui tantangan pemrograman."
+        },
+        {
+          "name": "roadmap.sh",
+          "url": "https://roadmap.sh/",
+          "description": "Peta jalan yang dikelola komunitas untuk mempelajari keterampilan pengembangan perangkat lunak."
+        },
+        {
+          "name": "Scrimba",
+          "url": "https://scrimba.com/",
+          "description": "Kursus pengodean interaktif dengan kode yang dapat disunting dan disematkan di dalam pelajaran."
+        },
+        {
+          "name": "The Odin Project",
+          "url": "https://www.theodinproject.com/",
+          "description": "Kurikulum berbasis proyek yang gratis untuk mempelajari pengembangan web full-stack."
+        },
+        {
+          "name": "Udacity",
+          "url": "https://www.udacity.com/",
+          "description": "Kursus teknologi dan program berbasis proyek yang berfokus pada karier."
+        },
+        {
+          "name": "Udemy",
+          "url": "https://www.udemy.com/",
+          "description": "Pasar kursus daring sesuai permintaan (on-demand) untuk lintas teknologi dan mata pelajaran lainnya."
+        },
+        {
+          "name": "W3Schools",
+          "url": "https://www.w3schools.com/",
+          "description": "Tutorial pengembangan web yang ramah untuk pemula serta menyediakan contoh interaktif."
+        }
+      ]
+    },
+    {
+      "id": "research-academic",
+      "name": "Riset & Alat Akademik",
+      "icon": "🔬",
+      "description": "Temukan literatur ilmiah, atur referensi, dan temukan makalah penelitian.",
+      "tools": [
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org/",
+          "description": "Akses naskah pracetak (preprints) di berbagai bidang seperti ilmu komputer, fisika, dan matematika."
+        },
+        {
+          "name": "Google Scholar",
+          "url": "https://scholar.google.com/",
+          "description": "Telusuri artikel ilmiah, tesis, buku, dan kutipan."
+        },
+        {
+          "name": "Mendeley",
+          "url": "https://www.mendeley.com/",
+          "description": "Kelola referensi riset dan atur bahan bacaan akademik."
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/",
+          "description": "Jelajahi katalog terbuka untuk karya ilmiah, penulis, institusi, dan topik."
+        },
+        {
+          "name": "PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/",
+          "description": "Telusuri literatur biomedis dan ilmu kehidupan (life sciences)."
+        },
+        {
+          "name": "Semantic Scholar",
+          "url": "https://www.semanticscholar.org/",
+          "description": "Telusuri literatur ilmiah dengan fitur penemuan berbantuan kecerdasan buatan."
+        },
+        {
+          "name": "Zotero",
+          "url": "https://www.zotero.org/",
+          "description": "Kumpulkan, atur, kutip, dan bagikan sumber penelitian."
+        }
+      ]
+    },
+    {
+      "id": "file-pdf-web-utilities",
+      "name": "Berkas, PDF & Utilitas Web",
+      "icon": "🧰",
+      "description": "Utilitas daring umum untuk konversi dokumen, pengoptimalan gambar, terjemahan, dan tugas-tugas cepat.",
+      "tools": [
+        {
+          "name": "Adobe Acrobat Online",
+          "url": "https://www.adobe.com/acrobat/online.html",
+          "description": "Konversi, kompresi, tanda tangani, dan kelola dokumen PDF secara daring."
+        },
+        {
+          "name": "Cleanup.pictures",
+          "url": "https://cleanup.pictures/",
+          "description": "Hapus objek yang tidak diinginkan dari gambar menggunakan alat penyuntingan berbasis peramban web."
+        },
+        {
+          "name": "CloudConvert",
+          "url": "https://cloudconvert.com/",
+          "description": "Konversi dokumen, gambar, audio, video, dan format berkas lainnya."
+        },
+        {
+          "name": "Convertio",
+          "url": "https://convertio.co/",
+          "description": "Konverter berkas daring yang mendukung banyak format media dan dokumen."
+        },
+        {
+          "name": "Google Translate",
+          "url": "https://translate.google.com/",
+          "description": "Terjemahkan teks, dokumen, situs web, dan percakapan antarbahasa."
+        },
+        {
+          "name": "iLovePDF",
+          "url": "https://www.ilovepdf.com/",
+          "description": "Gabungkan, pisahkan, kompresi, konversi, dan sunting berkas PDF secara daring."
+        },
+        {
+          "name": "PDF24 Tools",
+          "url": "https://tools.pdf24.org/",
+          "description": "Alat daring gratis untuk konversi PDF umum dan tugas dokumen."
+        },
+        {
+          "name": "QR Code Monkey",
+          "url": "https://www.qrcode-monkey.com/",
+          "description": "Buat kode QR yang dapat disesuaikan untuk tautan, detail kontak, dan konten lainnya."
+        },
+        {
+          "name": "Smallpdf",
+          "url": "https://smallpdf.com/",
+          "description": "Seperangkat alat peramban web untuk mengonversi, mengompresi, dan mengelola dokumen PDF."
+        },
+        {
+          "name": "Speedtest by Ookla",
+          "url": "https://www.speedtest.net/",
+          "description": "Ukur kecepatan unduh, kecepatan unggah, dan latensi internet."
+        },
+        {
+          "name": "Squoosh",
+          "url": "https://squoosh.app/",
+          "description": "Bandingkan format gambar dan pengaturan kompresi dalam pengoptimal gambar berbasis peramban web."
+        },
+        {
+          "name": "TinyPNG",
+          "url": "https://tinypng.com/",
+          "description": "Kompresi gambar PNG, JPEG, dan WebP untuk situs web yang lebih cepat dan ukuran berkas yang lebih kecil."
+        },
+        {
+          "name": "What Is My IP Address",
+          "url": "https://whatismyipaddress.com/",
+          "description": "Lihat informasi IP publik dan detail dasar terkait jaringan."
+        },
+        {
+          "name": "WorldTimeBuddy",
+          "url": "https://www.worldtimebuddy.com/",
+          "description": "Bandingkan zona waktu untuk menemukan waktu yang tepat untuk pertemuan dan perencanaan perjalanan."
+        }
+      ]
+    }
+  ]
+}

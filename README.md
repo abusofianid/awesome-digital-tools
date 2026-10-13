@@ -511,6 +511,7 @@ Common online utilities for document conversion, image optimization, translation
 ### 🙌 Contributing
 Contributions are welcome!  
 If you know a useful platform that should be listed here, feel free to open a Pull Request or create an Issue.  
+To add a tool, edit both `data/tools.en.json` and `data/tools.id.json`, then run `python3 scripts/build_readme.py` to regenerate the README files.  
 
 ### ⭐ Support
 If you find this repository helpful, please consider giving it a **star** on GitHub — it helps others discover this collection too! 
