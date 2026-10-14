@@ -374,7 +374,7 @@
         {
           "name": "PostgreSQL",
           "url": "https://www.postgresql.org/",
-          "description": "A powerful open-source relational database system."
+          "description": "An open-source object-relational database system that uses and extends SQL."
         },
         {
           "name": "Redis",
@@ -561,11 +561,6 @@
           "name": "Lucidchart",
           "url": "https://www.lucidchart.com/",
           "description": "Create and collaborate on flowcharts, process maps, and technical diagrams."
-        },
-        {
-          "name": "Marvel",
-          "url": "https://marvelapp.com/",
-          "description": "A digital product design tool for wireframing, prototyping, and user testing."
         },
         {
           "name": "Penpot",
@@ -935,11 +930,6 @@
           "description": "Manage projects and processes with spreadsheet-style work management."
         },
         {
-          "name": "Taiga",
-          "url": "https://taiga.io/",
-          "description": "An open-source project management tool for agile teams."
-        },
-        {
           "name": "Todoist",
           "url": "https://todoist.com/",
           "description": "Organize personal and team tasks with projects, labels, and reminders."
@@ -1218,7 +1208,7 @@
         },
         {
           "name": "Dependabot",
-          "url": "https://github.com/features/security",
+          "url": "https://docs.github.com/en/code-security/tutorials/secure-your-dependencies/dependabot-quickstart",
           "description": "Detect dependency vulnerabilities and help keep software packages updated."
         },
         {
@@ -1628,11 +1618,6 @@
           "name": "Adobe Acrobat Online",
           "url": "https://www.adobe.com/acrobat/online.html",
           "description": "Convert, compress, sign, and manage PDF documents online."
-        },
-        {
-          "name": "Cleanup.pictures",
-          "url": "https://cleanup.pictures/",
-          "description": "Remove unwanted objects from images using a browser-based editing tool."
         },
         {
           "name": "CloudConvert",

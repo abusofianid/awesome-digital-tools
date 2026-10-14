@@ -5,7 +5,7 @@
   "categories": [
     {
       "id": "ai-assistants-research",
-      "name": "Asisten Kecerdasan Buatan & Penelitian",
+      "name": "Asisten AI dan Penelitian",
       "icon": "🤖",
       "description": "Asisten kecerdasan buatan serbaguna, mesin penjawab, dan alat penelitian.",
       "tools": [
@@ -63,7 +63,7 @@
     },
     {
       "id": "ai-coding-app-builders",
-      "name": "Pengodean Kecerdasan Buatan & Pembuat Aplikasi",
+      "name": "Pengodean AI dan Pembuat Aplikasi",
       "icon": "🪄",
       "description": "Pemrograman berbantuan kecerdasan buatan, tinjauan kode, dan pengembangan aplikasi berbasis perintah.",
       "tools": [
@@ -126,7 +126,7 @@
     },
     {
       "id": "development-ides",
-      "name": "Pengembangan & Lingkungan Pengembangan Terpadu",
+      "name": "Pengembangan dan IDE",
       "icon": "💻",
       "description": "Penyunting, lingkungan pengembangan terpadu (IDE), kolaborasi kode sumber, dan referensi pengembang penting.",
       "tools": [
@@ -229,7 +229,7 @@
     },
     {
       "id": "api-testing-qa",
-      "name": "Pengembangan Antarmuka Pemrograman Aplikasi (API), Pengujian & Penjaminan Mutu (QA)",
+      "name": "Pengembangan API, Pengujian, dan QA",
       "icon": "🧪",
       "description": "Klien antarmuka pemrograman aplikasi (API), pengujian otomatis, pengujian peramban web, dan pemeriksaan kualitas web.",
       "tools": [
@@ -312,7 +312,7 @@
     },
     {
       "id": "databases-data-engineering",
-      "name": "Basis Data & Rekayasa Data",
+      "name": "Basis Data dan Rekayasa Data",
       "icon": "💾",
       "description": "Basis data, jalur pipa data (data pipelines), alat kueri, dan platform rekayasa data.",
       "tools": [
@@ -374,7 +374,7 @@
         {
           "name": "PostgreSQL",
           "url": "https://www.postgresql.org/",
-          "description": "Sistem basis data relasional sumber terbuka yang tangguh."
+          "description": "Sistem basis data objek-relasional sumber terbuka yang menggunakan dan memperluas SQL."
         },
         {
           "name": "Redis",
@@ -400,7 +400,7 @@
     },
     {
       "id": "analytics-bi",
-      "name": "Analitik, Intelijen Bisnis (BI) & Wawasan Produk",
+      "name": "Analitik, Intelijen Bisnis (BI), dan Wawasan Produk",
       "icon": "📊",
       "description": "Dasbor intelijen bisnis, analitik produk, dan pengukuran lalu lintas web.",
       "tools": [
@@ -473,7 +473,7 @@
     },
     {
       "id": "design-ui-ux",
-      "name": "Desain, Antarmuka Pengguna/Pengalaman Pengguna (UI/UX) & Pembuatan Diagram",
+      "name": "Desain, UI/UX, dan Pembuatan Diagram",
       "icon": "🎨",
       "description": "Desain grafis, desain antarmuka, pembuatan prototipe, ilustrasi, dan alat diagram.",
       "tools": [
@@ -563,11 +563,6 @@
           "description": "Buat dan berkolaborasi pada diagram alur, peta proses, dan diagram teknis."
         },
         {
-          "name": "Marvel",
-          "url": "https://marvelapp.com/",
-          "description": "Alat desain produk digital untuk pembuatan kerangka kerja (wireframing), pembuatan prototipe, dan pengujian pengguna."
-        },
-        {
           "name": "Penpot",
           "url": "https://penpot.app/",
           "description": "Platform desain dan pembuatan prototipe sumber terbuka untuk tim produk."
@@ -596,7 +591,7 @@
     },
     {
       "id": "video-audio-ai-media",
-      "name": "Video, Audio & Media Kecerdasan Buatan",
+      "name": "Video, Audio, dan Media AI",
       "icon": "🎬",
       "description": "Penyuntingan video, perekaman layar, produksi audio, dan alat media generatif.",
       "tools": [
@@ -699,7 +694,7 @@
     },
     {
       "id": "creative-assets-fonts",
-      "name": "Aset Kreatif, Ikon & Fon",
+      "name": "Aset Kreatif, Ikon, dan Fon",
       "icon": "🔤",
       "description": "Aset visual yang dapat digunakan kembali, media stok, pustaka ikon, dan rupa huruf.",
       "tools": [
@@ -777,7 +772,7 @@
     },
     {
       "id": "writing-translation-publishing",
-      "name": "Menulis, Terjemahan & Penerbitan",
+      "name": "Penulisan, Terjemahan, dan Penerbitan",
       "icon": "📝",
       "description": "Bantuan penulisan, terjemahan, pencatatan, dokumentasi, dan platform penerbitan.",
       "tools": [
@@ -870,7 +865,7 @@
     },
     {
       "id": "productivity-project-management",
-      "name": "Produktivitas & Manajemen Proyek",
+      "name": "Produktivitas dan Manajemen Proyek",
       "icon": "✅",
       "description": "Perencanaan tugas, pelacakan proyek tim, kalender, pelacakan waktu, dan pengorganisasian pribadi.",
       "tools": [
@@ -935,11 +930,6 @@
           "description": "Kelola proyek dan proses dengan manajemen pekerjaan bergaya lembar lajur (spreadsheet)."
         },
         {
-          "name": "Taiga",
-          "url": "https://taiga.io/",
-          "description": "Alat manajemen proyek sumber terbuka untuk tim tangkas (agile)."
-        },
-        {
           "name": "Todoist",
           "url": "https://todoist.com/",
           "description": "Atur tugas pribadi dan tim dengan proyek, label, dan pengingat."
@@ -958,7 +948,7 @@
     },
     {
       "id": "communication-cloud-docs",
-      "name": "Komunikasi, Rapat & Dokumen Komputasi Awan",
+      "name": "Komunikasi, Rapat, dan Dokumen Berbasis Awan",
       "icon": "💬",
       "description": "Pesan tim, rapat video, berkas bersama, dan rangkaian produk produktivitas kantor.",
       "tools": [
@@ -1036,9 +1026,9 @@
     },
     {
       "id": "cloud-hosting-deployment",
-      "name": "Komputasi Awan, Hos & Penerapan (Deployment)",
+      "name": "Komputasi Awan, Hosting, dan Penerapan Aplikasi",
       "icon": "🌎",
-      "description": "Infrastruktur komputasi awan, hos aplikasi, penerapan ujung depan (frontend deployment), dan platform terkelola.",
+      "description": "Infrastruktur komputasi awan, hosting aplikasi, penerapan ujung depan (frontend deployment), dan platform terkelola.",
       "tools": [
         {
           "name": "Akamai Cloud",
@@ -1073,7 +1063,7 @@
         {
           "name": "GitHub Pages",
           "url": "https://pages.github.com/",
-          "description": "Hos situs web statis langsung dari repositori GitHub."
+          "description": "Hosting situs web statis langsung dari repositori GitHub."
         },
         {
           "name": "Google Cloud",
@@ -1088,12 +1078,12 @@
         {
           "name": "Microsoft Azure",
           "url": "https://azure.microsoft.com/",
-          "description": "Platform komputasi awan dari Microsoft untuk hos aplikasi, data, kecerdasan buatan, dan infrastruktur."
+          "description": "Platform komputasi awan dari Microsoft untuk hosting aplikasi, data, kecerdasan buatan, dan infrastruktur."
         },
         {
           "name": "Netlify",
           "url": "https://www.netlify.com/",
-          "description": "Bangun, terapkan, dan jadikan hos situs web modern dengan penerapan berkelanjutan (CI/CD)."
+          "description": "Bangun, terapkan, dan hosting situs web modern dengan penerapan berkelanjutan (CI/CD)."
         },
         {
           "name": "Railway",
@@ -1114,7 +1104,7 @@
     },
     {
       "id": "devops-monitoring",
-      "name": "DevOps, Kontainer & Pemantauan",
+      "name": "DevOps, Kontainer, dan Pemantauan",
       "icon": "🐳",
       "description": "Jalur pipa pembangunan perangkat lunak, otomatisasi infrastruktur, platform kontainer, observabilitas, dan pemantauan waktu operasional (uptime).",
       "tools": [
@@ -1197,7 +1187,7 @@
     },
     {
       "id": "security-privacy",
-      "name": "Keamanan & Privasi",
+      "name": "Keamanan dan Privasi",
       "icon": "🔒",
       "description": "Manajemen kata sandi, penemuan kerentanan, pengujian keamanan web, dan alat privasi.",
       "tools": [
@@ -1218,7 +1208,7 @@
         },
         {
           "name": "Dependabot",
-          "url": "https://github.com/features/security",
+          "url": "https://docs.github.com/en/code-security/tutorials/secure-your-dependencies/dependabot-quickstart",
           "description": "Deteksi kerentanan kebergantungan (dependencies) dan bantu menjaga paket perangkat lunak agar tetap mutakhir."
         },
         {
@@ -1255,7 +1245,7 @@
     },
     {
       "id": "marketing-seo-social",
-      "name": "Pemasaran, Pengoptimalan Mesin Pencari (SEO) & Media Sosial",
+      "name": "Pemasaran, SEO, dan Media Sosial",
       "icon": "📣",
       "description": "Pengoptimalan pencarian, periklanan, penerbitan di media sosial, kampanye surel, dan pertumbuhan audiens.",
       "tools": [
@@ -1358,7 +1348,7 @@
     },
     {
       "id": "automation-no-code-web-builders",
-      "name": "Otomatisasi, Tanpa Kode & Pembuat Situs Web",
+      "name": "Otomatisasi, Tanpa Kode, dan Pembuat Situs Web",
       "icon": "🔗",
       "description": "Hubungkan aplikasi, otomatiskan alur kerja, dan bangun situs web atau alat internal dengan sedikit atau tanpa kode.",
       "tools": [
@@ -1400,7 +1390,7 @@
         {
           "name": "Squarespace",
           "url": "https://www.squarespace.com/",
-          "description": "Buat situs web, portofolio, dan toko daring dengan hos terkelola."
+          "description": "Buat situs web, portofolio, dan toko daring dengan hosting terkelola."
         },
         {
           "name": "Webflow",
@@ -1421,7 +1411,7 @@
     },
     {
       "id": "business-crm-ecommerce",
-      "name": "Bisnis, Manajemen Hubungan Pelanggan (CRM) & Perdagangan Elektronik (E-commerce)",
+      "name": "Bisnis, CRM, dan Perdagangan Elektronik",
       "icon": "💼",
       "description": "Manajemen hubungan pelanggan, penjualan daring, pembayaran, dan keuangan usaha kecil.",
       "tools": [
@@ -1489,7 +1479,7 @@
     },
     {
       "id": "learning-developer-resources",
-      "name": "Pembelajaran & Sumber Daya Pengembang",
+      "name": "Pembelajaran dan Sumber Daya Pengembang",
       "icon": "📚",
       "description": "Kursus daring, latihan pemrograman, tutorial, dan jalur pembelajaran terstruktur.",
       "tools": [
@@ -1577,7 +1567,7 @@
     },
     {
       "id": "research-academic",
-      "name": "Riset & Alat Akademik",
+      "name": "Penelitian dan Alat Akademik",
       "icon": "🔬",
       "description": "Temukan literatur ilmiah, atur referensi, dan temukan makalah penelitian.",
       "tools": [
@@ -1620,7 +1610,7 @@
     },
     {
       "id": "file-pdf-web-utilities",
-      "name": "Berkas, PDF & Utilitas Web",
+      "name": "Berkas, PDF, dan Utilitas Web",
       "icon": "🧰",
       "description": "Utilitas daring umum untuk konversi dokumen, pengoptimalan gambar, terjemahan, dan tugas-tugas cepat.",
       "tools": [
@@ -1628,11 +1618,6 @@
           "name": "Adobe Acrobat Online",
           "url": "https://www.adobe.com/acrobat/online.html",
           "description": "Konversi, kompresi, tanda tangani, dan kelola dokumen PDF secara daring."
-        },
-        {
-          "name": "Cleanup.pictures",
-          "url": "https://cleanup.pictures/",
-          "description": "Hapus objek yang tidak diinginkan dari gambar menggunakan alat penyuntingan berbasis peramban web."
         },
         {
           "name": "CloudConvert",
