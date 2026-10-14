@@ -1,7 +1,8 @@
 🌐 **English** | [Bahasa Indonesia](README.id.md)
 
-# 🔎 Awesome Digital Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🔎 Awesome Digital Tools
 
+[![Awesome](https://img.shields.io/badge/Awesome-List-fc60a8?style=for-the-badge&logo=awesomelists&logoColor=white)](https://awesome.re)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
 
