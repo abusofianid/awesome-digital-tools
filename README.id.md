@@ -1,7 +1,14 @@
 🌐 [English](README.md) | **Bahasa Indonesia**
 
-### Alat Digital Luar Biasa 🚀
-Direktori kurasi alat digital yang banyak digunakan untuk kecerdasan buatan, pengembangan perangkat lunak, desain, produktivitas, bisnis, pembelajaran, dan pekerjaan sehari-hari.
+# 🔎 Awesome Digital Tools
+
+![Awesome](https://img.shields.io/badge/Awesome-List-indigo?style=for-the-badge&logo=awesomelists&logoColor=black&labelColor=pink)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
+
+**Koleksi alat digital yang dikurasi dengan cermat, populer, banyak digunakan, dan benar-benar berguna untuk pengembangan, kecerdasan buatan (AI), analitik data, desain, penulisan, produktivitas, pemasaran, komputasi awan, keamanan, dan lainnya.**
+
+Dirawat secara berkelanjutan untuk membantu pengembang, kreator, profesional, dan penggemar digital menemukan alat yang andal tanpa harus menelusuri direktori tanpa akhir yang berisi pilihan yang belum terverifikasi.
 
 ---
 
@@ -512,10 +519,11 @@ Utilitas daring umum untuk konversi dokumen, pengoptimalan gambar, terjemahan, d
 ### 🙌 Kontribusi
 Kontribusi sangat diterima!  
 Jika Anda mengetahui platform bermanfaat yang layak masuk daftar ini, silakan buka Pull Request atau buat Issue.  
-Untuk menambah atau mengubah alat, ikuti langkah di [📖 Cara Menambah atau Mengubah Alat](#-cara-menambah-atau-mengubah-alat).  
+Mohon baca dahulu [Panduan Kontribusi](CONTRIBUTING.md) (dalam bahasa Inggris): panduan itu menjelaskan alat seperti apa yang layak masuk dan seperti apa Pull Request yang baik.  
+Untuk mengubah daftar, ikuti langkah di [📖 Cara Menambah atau Mengubah Alat](#-cara-menambah-atau-mengubah-alat).
 
 ### 📖 Cara Menambah atau Mengubah Alat
-Daftar alat diperbarui secara manual di dua tempat yang harus dijaga agar selalu sama: file JSON di `data/` (satu untuk setiap bahasa) dan file README. Bahasa Inggris adalah daftar utama.
+Daftar alat diperbarui secara manual di dua tempat yang harus dijaga agar selalu sama: file JSON di `data/` (satu untuk setiap bahasa) dan file README. Bahasa Inggris adalah daftar utama. Sebelum menambah alat, periksa apakah alat itu memenuhi [Panduan Kontribusi](CONTRIBUTING.md) (dalam bahasa Inggris).
 
 **File utama**
 
@@ -566,13 +574,15 @@ Untuk mengubah alat, ubah di keempat file. Untuk menghapus alat, hapus dari keem
 - Jaga kedua file JSON tetap sama: kategori, alat, nama, URL, dan urutan yang sama. Hanya deskripsi yang berbeda.
 - Pastikan JSON valid: beri koma di antara entri dan tanpa koma setelah entri terakhir.
 
+---
+
 ### ⭐ Dukungan
-Jika repositori ini bermanfaat bagi Anda, mohon pertimbangkan untuk memberinya **bintang** di GitHub — ini membantu orang lain menemukan koleksi ini juga! 
+Jika repositori ini bermanfaat bagi Anda, mohon pertimbangkan untuk memberinya **bintang** di GitHub — ini membantu orang lain menemukan koleksi ini juga!
 
 ### 📧 Kontak
-**Penulis:** Abu Sofian  
-**Email:** [abusofian.id@gmail.com](mailto:abusofian.id@gmail.com)  
-**LinkedIn:** [linkedin.com/in/abusofianid](https://www.linkedin.com/in/abusofianid) 
+- **Penulis**: Abu Sofian  
+- **Email**: abusofian.id@gmail.com  
+- **LinkedIn**: [linkedin.com/in/abusofianid](https://www.linkedin.com/in/abusofianid)
 
 [🔝 Kembali ke Atas](#-daftar-isi)
 

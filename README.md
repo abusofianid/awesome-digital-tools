@@ -1,10 +1,14 @@
 🌐 **English** | [Bahasa Indonesia](README.id.md)
 
-# 🔎 Awesome Digital Tools 
+# 🔎 Awesome Digital Tools
 
 ![Awesome](https://img.shields.io/badge/Awesome-List-indigo?style=for-the-badge&logo=awesomelists&logoColor=black&labelColor=pink)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
 
-A carefully curated collection of popular, widely adopted, and genuinely useful digital tools across development, AI, data analytics, design, writing, productivity, marketing, cloud computing, security, and more. Continuously maintained to help developers, creators, professionals, and digital enthusiasts find reliable tools without navigating endless directories of unverified options.
+**A carefully curated collection of popular, widely adopted, and genuinely useful digital tools across development, AI, data analytics, design, writing, productivity, marketing, cloud computing, security, and more.**
+
+Continuously maintained to help developers, creators, professionals, and digital enthusiasts find reliable tools without navigating endless directories of unverified options.
 
 ---
 
@@ -515,10 +519,11 @@ Common online utilities for document conversion, image optimization, translation
 ### 🙌 Contributing
 Contributions are welcome!  
 If you know a useful platform that should be listed here, feel free to open a Pull Request or create an Issue.  
-Follow the steps in [CONTRIBUTING](CONTRIBUTING.md)
+Please read the [Contributing Guidelines](CONTRIBUTING.md) first: they explain which tools qualify and what a good Pull Request looks like.  
+To edit the lists, follow [📖 How to Add or Update a Tool](#-how-to-add-or-update-a-tool).
 
 ### 📖 How to Add or Update a Tool
-The tool lists are updated by hand in two places that must be kept in step: the JSON files in `data/` (one per language) and the README files. English is the main list.
+The tool lists are updated by hand in two places that must be kept in step: the JSON files in `data/` (one per language) and the README files. English is the main list. Before adding a tool, check it against the [Contributing Guidelines](CONTRIBUTING.md).
 
 **Key files**
 
@@ -569,13 +574,15 @@ To change a tool, edit it in all four files. To remove a tool, delete it from al
 - Keep both JSON files in step: the same categories, tools, names, URLs, and order. Only the descriptions differ.
 - Keep the JSON valid: put a comma between entries and no comma after the last one.
 
+---
+
 ### ⭐ Support
-If you find this repository helpful, please consider giving it a **star** on GitHub — it helps others discover this collection too! 
+If you find this repository helpful, please consider giving it a **star** on GitHub — it helps others discover this collection too!
 
 ### 📧 Contact
-**Author:** Abu Sofian  
-**Email:** [abusofian.id@gmail.com](mailto:abusofian.id@gmail.com)  
-**LinkedIn:** [linkedin.com/in/abusofianid](https://www.linkedin.com/in/abusofianid) 
+- **Author**: Abu Sofian  
+- **Email**: abusofian.id@gmail.com  
+- **LinkedIn**: [linkedin.com/in/abusofianid](https://www.linkedin.com/in/abusofianid)
 
 [🔝 Back to Top](#-table-of-contents)
 
