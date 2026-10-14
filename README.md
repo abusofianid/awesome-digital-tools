@@ -518,22 +518,20 @@ If you know a useful platform that should be listed here, feel free to open a Pu
 Follow the steps in [CONTRIBUTING](CONTRIBUTING.md)
 
 ### 📖 How to Add or Update a Tool
-The tool lists live in two JSON files, one per language. Both README files are generated from them, so do not edit the READMEs by hand: your changes would be overwritten.
+The tool lists are updated by hand in two places that must be kept in step: the JSON files in `data/` (one per language) and the README files. English is the main list.
 
 **Key files**
 
 ```text
 .
 ├── data/
-│   ├── tools.en.json     # English tool list
+│   ├── tools.en.json     # English tool list (main list)
 │   └── tools.id.json     # Indonesian tool list
-├── scripts/
-│   └── build_readme.py   # builds both READMEs from data/
-├── README.md             # English README (generated)
-└── README.id.md          # Indonesian README (generated)
+├── README.md             # English README
+└── README.id.md          # Indonesian README
 ```
 
-**1. Add the tool to the English file.** Open `data/tools.en.json`, find the category, and insert the entry in alphabetical order:
+**1. Add the tool to the English JSON.** Open `data/tools.en.json`, find the category, and insert the entry in alphabetical order:
 
 ```json
 {
@@ -543,7 +541,7 @@ The tool lists live in two JSON files, one per language. Both README files are g
 }
 ```
 
-**2. Add the same tool to the Indonesian file.** Use the same `name` and `url` at the same position in `data/tools.id.json`, and write the `description` in Indonesian:
+**2. Add the same tool to the Indonesian JSON.** Use the same `name` and `url` at the same position in `data/tools.id.json`, and write the `description` in Indonesian:
 
 ```json
 {
@@ -553,32 +551,23 @@ The tool lists live in two JSON files, one per language. Both README files are g
 }
 ```
 
-**3. Rebuild the READMEs.** Python 3.8 or newer is required; there is nothing to install:
+**3. Add the tool to both READMEs.** Insert one line in the same category of `README.md` and `README.id.md`, in alphabetical order, with the description of that language:
 
-```bash
-python3 scripts/build_readme.py
+```markdown
+- [Example Tool](https://example.com/) — A short sentence that ends with a period.
 ```
 
 **4. Commit** the two JSON files and the two README files together.
 
-To change or remove a tool, edit or delete its entry in both JSON files and run the script again. To add a category, add an object with a unique `id`, a `name`, an `icon` (one emoji that no other category uses), a `description`, and a `tools` list to both files, at the same position.
+To change a tool, edit it in all four files. To remove a tool, delete it from all four. To add a category, add an object with a unique `id`, a `name`, an `icon` (one emoji that no other category uses), a `description`, and a `tools` list to both JSON files at the same position, then add a section for it to both READMEs and a link to that section in the table of contents.
 
-**What the script rejects**
+**Rules to keep the lists consistent**
 
-- categories, tools, names, URLs, or an order that differ between the two files
-- an `icon` that is missing, differs between the files, or is used by two categories
-- a URL that is listed twice or does not start with `https://`
-- an empty name or description, or one that contains Markdown characters such as `*`, `_`, `[`, `]`, `<`, `>`, `|`
-
-When the data is rejected, the script lists every problem and writes nothing.
-
-**Check that the READMEs are up to date**
-
-```bash
-python3 scripts/build_readme.py --check
-```
-
-It prints `README files are up to date.` and exits with 0. If a README is outdated, it names the file and exits with 1, so you can also run it in CI.
+- Use an `https://` URL, and list each tool only once.
+- Write each description as one sentence that ends with a period.
+- Avoid the Markdown characters `*`, `_`, `[`, `]`, `<`, `>`, `|` in names and descriptions.
+- Keep both JSON files in step: the same categories, tools, names, URLs, and order. Only the descriptions differ.
+- Keep the JSON valid: put a comma between entries and no comma after the last one.
 
 ### ⭐ Support
 If you find this repository helpful, please consider giving it a **star** on GitHub — it helps others discover this collection too! 

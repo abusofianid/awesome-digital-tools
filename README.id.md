@@ -515,22 +515,20 @@ Jika Anda mengetahui platform bermanfaat yang layak masuk daftar ini, silakan bu
 Untuk menambah atau mengubah alat, ikuti langkah di [📖 Cara Menambah atau Mengubah Alat](#-cara-menambah-atau-mengubah-alat).  
 
 ### 📖 Cara Menambah atau Mengubah Alat
-Daftar alat disimpan di dua file JSON, satu untuk setiap bahasa. Kedua file README dibuat otomatis dari file tersebut, jadi jangan mengedit README secara manual: perubahan Anda akan tertimpa.
+Daftar alat diperbarui secara manual di dua tempat yang harus dijaga agar selalu sama: file JSON di `data/` (satu untuk setiap bahasa) dan file README. Bahasa Inggris adalah daftar utama.
 
 **File utama**
 
 ```text
 .
 ├── data/
-│   ├── tools.en.json     # Daftar alat (Inggris)
+│   ├── tools.en.json     # Daftar alat (Inggris, daftar utama)
 │   └── tools.id.json     # Daftar alat (Indonesia)
-├── scripts/
-│   └── build_readme.py   # Membuat kedua README dari data/
-├── README.md             # README Inggris (dibuat otomatis)
-└── README.id.md          # README Indonesia (dibuat otomatis)
+├── README.md             # README Inggris
+└── README.id.md          # README Indonesia
 ```
 
-**1. Tambahkan alat ke file Inggris.** Buka `data/tools.en.json`, cari kategorinya, lalu sisipkan entri sesuai urutan abjad:
+**1. Tambahkan alat ke JSON Inggris.** Buka `data/tools.en.json`, cari kategorinya, lalu sisipkan entri sesuai urutan abjad:
 
 ```json
 {
@@ -540,7 +538,7 @@ Daftar alat disimpan di dua file JSON, satu untuk setiap bahasa. Kedua file READ
 }
 ```
 
-**2. Tambahkan alat yang sama ke file Indonesia.** Gunakan `name` dan `url` yang sama pada posisi yang sama di `data/tools.id.json`, lalu tulis `description` dalam bahasa Indonesia:
+**2. Tambahkan alat yang sama ke JSON Indonesia.** Gunakan `name` dan `url` yang sama pada posisi yang sama di `data/tools.id.json`, lalu tulis `description` dalam bahasa Indonesia:
 
 ```json
 {
@@ -550,32 +548,23 @@ Daftar alat disimpan di dua file JSON, satu untuk setiap bahasa. Kedua file READ
 }
 ```
 
-**3. Buat ulang README.** Dibutuhkan Python 3.8 atau lebih baru; tidak ada yang perlu dipasang:
+**3. Tambahkan alat ke kedua README.** Sisipkan satu baris di kategori yang sama pada `README.md` dan `README.id.md`, sesuai urutan abjad, dengan deskripsi bahasa masing-masing:
 
-```bash
-python3 scripts/build_readme.py
+```markdown
+- [Example Tool](https://example.com/) — Satu kalimat singkat yang diakhiri titik.
 ```
 
 **4. Commit** kedua file JSON dan kedua file README bersamaan.
 
-Untuk mengubah atau menghapus alat, ubah atau hapus entrinya di kedua file JSON, lalu jalankan skrip lagi. Untuk menambah kategori, tambahkan objek dengan `id` unik, `name`, `icon` (satu emoji yang belum dipakai kategori lain), `description`, dan daftar `tools` ke kedua file pada posisi yang sama.
+Untuk mengubah alat, ubah di keempat file. Untuk menghapus alat, hapus dari keempat file. Untuk menambah kategori, tambahkan objek dengan `id` unik, `name`, `icon` (satu emoji yang belum dipakai kategori lain), `description`, dan daftar `tools` ke kedua file JSON pada posisi yang sama, lalu tambahkan bagian untuk kategori itu ke kedua README beserta tautannya di daftar isi.
 
-**Yang ditolak skrip**
+**Aturan agar daftar tetap konsisten**
 
-- kategori, alat, nama, URL, atau urutan yang berbeda antara kedua file
-- `icon` yang hilang, berbeda antar bahasa, atau dipakai dua kategori
-- URL yang muncul dua kali atau tidak diawali `https://`
-- nama atau deskripsi yang kosong, atau yang mengandung karakter Markdown seperti `*`, `_`, `[`, `]`, `<`, `>`, `|`
-
-Jika data ditolak, skrip menampilkan semua masalah dan tidak menulis apa pun.
-
-**Cek apakah README sudah terbaru**
-
-```bash
-python3 scripts/build_readme.py --check
-```
-
-Perintah ini menampilkan `README files are up to date.` dan berhenti dengan kode 0. Jika ada README yang usang, skrip menyebut nama filenya dan berhenti dengan kode 1, sehingga bisa dipakai juga di CI.
+- Gunakan URL `https://`, dan cantumkan setiap alat hanya sekali.
+- Tulis setiap deskripsi sebagai satu kalimat yang diakhiri titik.
+- Hindari karakter Markdown `*`, `_`, `[`, `]`, `<`, `>`, `|` di nama dan deskripsi.
+- Jaga kedua file JSON tetap sama: kategori, alat, nama, URL, dan urutan yang sama. Hanya deskripsi yang berbeda.
+- Pastikan JSON valid: beri koma di antara entri dan tanpa koma setelah entri terakhir.
 
 ### ⭐ Dukungan
 Jika repositori ini bermanfaat bagi Anda, mohon pertimbangkan untuk memberinya **bintang** di GitHub — ini membantu orang lain menemukan koleksi ini juga! 
