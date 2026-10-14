@@ -1,3 +1,5 @@
+🌐 **English** | [Bahasa Indonesia](CONTRIBUTING.id.md)
+
 # Contributing to Awesome Digital Tools
 
 Thank you for your interest in contributing to **Awesome Digital Tools**!

@@ -1,8 +1,7 @@
 🌐 [English](README.md) | **Bahasa Indonesia**
 
-# 🔎 Awesome Digital Tools
+# 🔎 Alat Digital Pilihan [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![Awesome](https://img.shields.io/badge/Awesome-List-indigo?style=for-the-badge&logo=awesomelists&logoColor=black&labelColor=pink)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
 
@@ -518,14 +517,14 @@ Utilitas daring umum untuk konversi dokumen, pengoptimalan gambar, terjemahan, d
 
 ### 🙌 Kontribusi
 Kontribusi sangat diterima!  
-Jika Anda mengetahui platform bermanfaat yang layak masuk daftar ini, silakan buka Pull Request atau buat Issue.  
-Mohon baca dahulu [Panduan Kontribusi](CONTRIBUTING.md) (dalam bahasa Inggris): panduan itu menjelaskan alat seperti apa yang layak masuk dan seperti apa Pull Request yang baik.  
+Jika Anda mengetahui platform bermanfaat yang layak masuk daftar ini, silakan buka *pull request* atau buat *issue*.  
+Mohon baca dahulu [Panduan Kontribusi](CONTRIBUTING.id.md): panduan itu menjelaskan alat seperti apa yang layak masuk dan seperti apa *pull request* yang baik.  
 Untuk mengubah daftar, ikuti langkah di [📖 Cara Menambah atau Mengubah Alat](#-cara-menambah-atau-mengubah-alat).
 
 ### 📖 Cara Menambah atau Mengubah Alat
-Daftar alat diperbarui secara manual di dua tempat yang harus dijaga agar selalu sama: file JSON di `data/` (satu untuk setiap bahasa) dan file README. Bahasa Inggris adalah daftar utama. Sebelum menambah alat, periksa apakah alat itu memenuhi [Panduan Kontribusi](CONTRIBUTING.md) (dalam bahasa Inggris).
+Daftar alat diperbarui secara manual di dua tempat yang harus dijaga agar selalu sama: berkas JSON di `data/` (satu untuk setiap bahasa) dan berkas README. Bahasa Inggris adalah daftar utama. Sebelum menambah alat, periksa apakah alat itu memenuhi [Panduan Kontribusi](CONTRIBUTING.id.md).
 
-**File utama**
+**Berkas utama**
 
 ```text
 .
@@ -562,16 +561,16 @@ Daftar alat diperbarui secara manual di dua tempat yang harus dijaga agar selalu
 - [Example Tool](https://example.com/) — Satu kalimat singkat yang diakhiri titik.
 ```
 
-**4. Commit** kedua file JSON dan kedua file README bersamaan.
+**4. Simpan ke repositori.** Lakukan *commit* untuk kedua berkas JSON dan kedua berkas README sekaligus.
 
-Untuk mengubah alat, ubah di keempat file. Untuk menghapus alat, hapus dari keempat file. Untuk menambah kategori, tambahkan objek dengan `id` unik, `name`, `icon` (satu emoji yang belum dipakai kategori lain), `description`, dan daftar `tools` ke kedua file JSON pada posisi yang sama, lalu tambahkan bagian untuk kategori itu ke kedua README beserta tautannya di daftar isi.
+Untuk mengubah alat, ubah di keempat berkas. Untuk menghapus alat, hapus dari keempat berkas. Untuk menambah kategori, tambahkan objek dengan `id` unik, `name`, `icon` (satu emoji yang belum dipakai kategori lain), `description`, dan daftar `tools` ke kedua berkas JSON pada posisi yang sama, lalu tambahkan bagian untuk kategori itu ke kedua README beserta tautannya di daftar isi.
 
 **Aturan agar daftar tetap konsisten**
 
 - Gunakan URL `https://`, dan cantumkan setiap alat hanya sekali.
 - Tulis setiap deskripsi sebagai satu kalimat yang diakhiri titik.
 - Hindari karakter Markdown `*`, `_`, `[`, `]`, `<`, `>`, `|` di nama dan deskripsi.
-- Jaga kedua file JSON tetap sama: kategori, alat, nama, URL, dan urutan yang sama. Hanya deskripsi yang berbeda.
+- Jaga kedua berkas JSON tetap sama: kategori, alat, nama, URL, dan urutan yang sama. Hanya deskripsi yang berbeda.
 - Pastikan JSON valid: beri koma di antara entri dan tanpa koma setelah entri terakhir.
 
 ---
